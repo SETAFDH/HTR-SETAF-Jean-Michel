@@ -1,0 +1,58 @@
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+title: HTR-SETAF-Jean-Michel
+url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
+authors:
+  - name: Sonia
+    surname: Solfrini
+    orcid: 0009-0009-7367-048X
+    roles:
+      - transcriber
+      - project-manager
+      - quality-control
+  - name: Simon
+    surname: Gabay
+    orcid: 0000-0001-9094-4475
+    roles:
+      - support
+  - name: Geneviève
+    surname: Gross
+    orcid: 0009-0006-5367-4262
+    roles:
+      - transcriber
+      - project-manager
+      - quality-control
+  - name: Pierre-Olivier
+    surname: Beaulnes
+    orcid: 0009-0009-2475-6017
+    roles:
+      - transcriber
+      - quality-control
+  - name: Aurélia
+    surname: Marques Oliveira
+    orcid: 0009-0009-9678-9811
+    roles:
+      - transcriber
+      - quality-control
+  - name: Daniela
+    surname: Solfaroli Camillocci
+    roles:
+      - project-manager
+institutions: []
+description: Data for the SETAF project
+project-name: SETAF project
+language:
+  - fra
+production-software: eScriptorium + Kraken
+script:
+  - iso: Latn
+script-type: only-typed
+time:
+  notBefore: '1500'
+  notAfter: '1599'
+hands:
+  count: '1'
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
