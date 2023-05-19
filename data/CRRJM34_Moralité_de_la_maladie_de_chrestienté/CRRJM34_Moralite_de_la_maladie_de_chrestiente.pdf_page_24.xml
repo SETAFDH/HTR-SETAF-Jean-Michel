@@ -466,7 +466,7 @@
                    HEIGHT="68"
                    ID="eSc_textblock_8123468f"
                    TAGREFS="BT1044">
-          <Shape><Polygon POINTS="652 769 670 832 839 837 839 769"/></Shape>
+          <Shape><Polygon POINTS="652 769 673 837 839 837 839 769"/></Shape>
           
           
           <TextLine ID="eSc_line_bd1c9603"
@@ -511,16 +511,6 @@
                     HEIGHT="79"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="672"
-                   VPOS="817"
-                   WIDTH="23"
-                   HEIGHT="13"
-                   ID="eSc_textblock_8db36109"
-                   >
-          <Shape><Polygon POINTS="672 830 672 817 695 817 695 830"/></Shape>
           
         </TextBlock>
         
