@@ -64,7 +64,7 @@ volume:
 - metric: lines
   count: 428
 - metric: regions
-  count: 42
+  count: 41
 characters:
   mode: NFD
   members:
