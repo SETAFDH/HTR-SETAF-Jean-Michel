@@ -58,13 +58,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 36183
+  count: 42434
 - metric: files
-  count: 61
+  count: 71
 - metric: lines
-  count: 1650
+  count: 1921
 - metric: regions
-  count: 132
+  count: 152
 characters:
   mode: NFD
   members:
@@ -74,13 +74,13 @@ characters:
   - n
   - a
   - i
-  - r
   - t
+  - r
   - o
   - l
   - c
-  - m
   - d
+  - m
   - p
   - .
   - y
@@ -95,11 +95,11 @@ characters:
   - C
   - ;
   - D
-  - I
   - E
   - L
-  - P
+  - I
   - "\u204A"
+  - P
   - x
   - Q
   - S
@@ -117,11 +117,11 @@ characters:
   - G
   - "\xB6"
   - "\uA770"
+  - "\u1DE4"
+  - "\uA751"
   - ':'
   - v
   - "\u036C"
-  - "\u1DE4"
-  - "\uA751"
   - "\uA753"
   - '8'
   - "\u1DD1"
