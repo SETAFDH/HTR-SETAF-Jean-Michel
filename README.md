@@ -35,11 +35,11 @@ Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et
 
 ## Citer le dépôt
 
-- Version `0.9`: Sonia Solfrini, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira et Daniela Solfaroli Camillocci _Données HTR et segmentation des imprimés de Jean Michel (projet SETAF)_, version `0.9`, Genève, université de Genève, 2023, https://github.com/SETAFDH/HTR-SETAF-Jean-Michel.
+- Version `0.9`: Sonia Solfrini, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Simon Gabay et Daniela Solfaroli Camillocci _Données HTR et segmentation des imprimés de Jean Michel (projet SETAF)_, version `0.9`, Genève, université de Genève, 2023, https://github.com/SETAFDH/HTR-SETAF-Jean-Michel.
 
 ```bibtex
 @misc{solfrini_VingleSETAF_2023,
-  author={Solfrini, Sonia and Gross, Geneviève and Beaulnes, Pierre-Olivier and Marques Oliveira, Aurélia, and Solfaroli Camillocci, Daniela},
+  author={Solfrini, Sonia and Gross, Geneviève and Beaulnes, Pierre-Olivier and Marques Oliveira, Aurélia, and Gabay, Simon and Solfaroli Camillocci, Daniela},
   title={Données HTR et segmentation des imprimés de Jean Michel (projet SETAF)},
   version={0.9},
   address={Genève},
