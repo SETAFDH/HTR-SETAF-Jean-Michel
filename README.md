@@ -18,7 +18,7 @@ Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : 2
 
 ## Données HTR
 
-Les données se trouvent au chemin ‘./data//.xml‘. Elles sont au format ALTO et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont produites à l'aide de l'interface eScriptorium et sont cataloguées sur HTR-United (https://htr-united.github.io). Les fichiers ALTO sont corrigés manuellement : la correction de la segmentation est en cours et la transcription sera bientôt corrigée. 
+Les données se trouvent au chemin ‘./data//.xml‘. Elles sont au format ALTO et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont produites à l'aide de l'interface eScriptorium et sont cataloguées sur HTR-United (https://htr-united.github.io). Les fichiers ALTO sont corrigés manuellement : la correction de la segmentation est en cours et la transcription issue de l'HTR sera bientôt corrigée. 
 
 
 ## Infrastructure
@@ -38,7 +38,7 @@ Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et
 - Version `0.9`: Sonia Solfrini, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Simon Gabay et Daniela Solfaroli Camillocci _Données HTR et segmentation des imprimés de Jean Michel (projet SETAF)_, version `0.9`, Genève, université de Genève, 2023, https://github.com/SETAFDH/HTR-SETAF-Jean-Michel.
 
 ```bibtex
-@misc{solfrini_VingleSETAF_2023,
+@misc{solfrini_MichelSETAF_2023,
   author={Solfrini, Sonia and Gross, Geneviève and Beaulnes, Pierre-Olivier and Marques Oliveira, Aurélia, and Gabay, Simon and Solfaroli Camillocci, Daniela},
   title={Données HTR et segmentation des imprimés de Jean Michel (projet SETAF)},
   version={0.9},
@@ -58,7 +58,6 @@ Sonia Solfrini, Geneviève Gross, Brigitte Roux, Nathalie Szczech et Daniela Sol
 @misc{solfrini_SETAF_2023,
   author={Solfrini, Sonia and Gross, Geneviève and Roux, Brigitte and Szczech, Nathalie and Solfaroli Camillocci, Daniela},
   title={SETAF (S’en tenir aux 'Faits de Jésus Christ et du pape'). Les imprimés évangéliques romands et les pratiques de communication religieuse à l’époque de la Réforme},
-  version={0.9},
   address={Genève},
   publisher={université de Genève},
   year={2023},
