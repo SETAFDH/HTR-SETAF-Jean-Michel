@@ -18,7 +18,7 @@ Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : 2
 
 ## Données HTR
 
-Les données se trouvent au chemin ‘./data//.xml‘. Elles sont au format ALTO et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont produites à l'aide de l'interface eScriptorium et sont cataloguées sur HTR-United (https://htr-united.github.io). Les fichiers ALTO sont corrigés manuellement : la correction de la segmentation est en cours et la transcription issue de l'HTR sera bientôt corrigée. 
+Les données se trouvent au chemin ‘./data//.xml‘. Elles sont au format ALTO et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont produites à l'aide de l'interface eScriptorium et sont cataloguées sur HTR-United (https://htr-united.github.io). Les fichiers ALTO sont corrigés manuellement : le côntrole de la segmentation est en cours et la transcription issue de l'HTR sera bientôt corrigée. 
 
 
 ## Infrastructure
@@ -48,7 +48,6 @@ Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et
   url={https://github.com/SETAFDH/HTR-SETAF-Jean-Michel},
 }
 ```
-
 
 ## Citer le projet
 
