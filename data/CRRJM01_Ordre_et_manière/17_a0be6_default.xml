@@ -583,17 +583,17 @@
           
           <TextLine ID="eSc_line_a511ef61"
                     TAGREFS="LT406"
-                    BASELINE="252 1152 527 1134" 
-                    HPOS="250"
-                    VPOS="1051"
-                    WIDTH="278"
-                    HEIGHT="122">
-            <Shape><Polygon POINTS="252 1173 252 1152 250 1080 276 1077 302 1072 325 1069 351 1064 377 1061 385 1059 406 1064 416 1054 429 1054 435 1051 521 1059 522 1059 528 1152"/></Shape>
+                    BASELINE="263 1141 527 1134" 
+                    HPOS="257"
+                    VPOS="1080"
+                    WIDTH="269"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="492 1080 466 1080 440 1080 414 1080 388 1080 385 1080 257 1085 260 1139 260 1173 526 1158 526 1132 518 1080 492 1080"/></Shape>
 	    <String CONTENT=""
-                    HPOS="250"
-                    VPOS="1051"
-                    WIDTH="278"
-                    HEIGHT="122"></String>
+                    HPOS="257"
+                    VPOS="1080"
+                    WIDTH="269"
+                    HEIGHT="93"></String>
           </TextLine>
 
           
