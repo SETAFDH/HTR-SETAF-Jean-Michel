@@ -62,7 +62,7 @@ volume:
 - metric: files
   count: 169
 - metric: lines
-  count: 4705
+  count: 4704
 - metric: regions
   count: 514
 characters:
