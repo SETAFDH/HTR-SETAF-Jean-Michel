@@ -25,13 +25,13 @@
                   WIDTH="1931"
                   HEIGHT="3123">
         
-        <TextBlock HPOS="75"
+        <TextBlock HPOS="46"
                    VPOS="251"
-                   WIDTH="1340"
-                   HEIGHT="2571"
+                   WIDTH="1369"
+                   HEIGHT="2582"
                    ID="eSc_textblock_59594710"
                    TAGREFS="BT1099">
-          <Shape><Polygon POINTS="75 251 75 2822 1415 2794 1388 251"/></Shape>
+          <Shape><Polygon POINTS="46 273 68 2833 1415 2794 1388 251"/></Shape>
           
           
           <TextLine ID="eSc_line_8d1bbf4a"
@@ -324,7 +324,7 @@
           
           
           <TextLine ID="eSc_line_a481aec6"
-                    
+                    TAGREFS="LT406"
                     BASELINE="78 1959 1383 1946" 
                     HPOS="75"
                     VPOS="1863"
@@ -341,7 +341,7 @@
           
           
           <TextLine ID="eSc_line_723f21f2"
-                    
+                    TAGREFS="LT406"
                     BASELINE="80 2055 1391 2045" 
                     HPOS="78"
                     VPOS="1957"
@@ -358,7 +358,7 @@
           
           
           <TextLine ID="eSc_line_8ea20fe0"
-                    
+                    TAGREFS="LT406"
                     BASELINE="91 2147 1399 2136" 
                     HPOS="88"
                     VPOS="2048"
@@ -375,7 +375,7 @@
           
           
           <TextLine ID="eSc_line_cd743760"
-                    
+                    TAGREFS="LT406"
                     BASELINE="91 2245 1399 2230" 
                     HPOS="88"
                     VPOS="2141"
@@ -392,7 +392,7 @@
           
           
           <TextLine ID="eSc_line_711f0391"
-                    
+                    TAGREFS="LT406"
                     BASELINE="91 2342 1396 2324" 
                     HPOS="88"
                     VPOS="2232"
@@ -409,7 +409,7 @@
           
           
           <TextLine ID="eSc_line_f641d25c"
-                    
+                    TAGREFS="LT406"
                     BASELINE="85 2433 1396 2420" 
                     HPOS="83"
                     VPOS="2331"
@@ -426,7 +426,7 @@
           
           
           <TextLine ID="eSc_line_93288a69"
-                    
+                    TAGREFS="LT406"
                     BASELINE="85 2521 1404 2514" 
                     HPOS="83"
                     VPOS="2425"
@@ -443,7 +443,7 @@
           
           
           <TextLine ID="eSc_line_2568ab7d"
-                    
+                    TAGREFS="LT406"
                     BASELINE="91 2620 1401 2607" 
                     HPOS="88"
                     VPOS="2521"
@@ -460,7 +460,7 @@
           
           
           <TextLine ID="eSc_line_5bcf6a5a"
-                    
+                    TAGREFS="LT406"
                     BASELINE="83 2717 1401 2703" 
                     HPOS="80"
                     VPOS="2623"
@@ -477,7 +477,7 @@
           
           
           <TextLine ID="eSc_line_f4c0d879"
-                    
+                    TAGREFS="LT406"
                     BASELINE="88 2810 310 2805" 
                     HPOS="85"
                     VPOS="2719"
@@ -504,18 +504,18 @@
           
           
           <TextLine ID="eSc_line_7ee548ff"
-                    
-                    BASELINE="1411 831 1673 830" 
-                    HPOS="1410"
-                    VPOS="739"
-                    WIDTH="263"
-                    HEIGHT="122">
-            <Shape><Polygon POINTS="1639 770 1662 772 1673 830 1670 861 1411 853 1410 746 1451 739 1456 739 1503 759 1600 759 1613 762"/></Shape>
+                    TAGREFS="LT406"
+                    BASELINE="1407 831 1673 830" 
+                    HPOS="1401"
+                    VPOS="752"
+                    WIDTH="269"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1532 752 1506 752 1480 752 1454 752 1428 752 1407 752 1401 754 1404 830 1404 853 1597 848 1667 861 1670 827 1665 757 1540 752 1532 752"/></Shape>
 	    <String CONTENT=""
-                    HPOS="1410"
-                    VPOS="739"
-                    WIDTH="263"
-                    HEIGHT="122"></String>
+                    HPOS="1401"
+                    VPOS="752"
+                    WIDTH="269"
+                    HEIGHT="109"></String>
           </TextLine>
 
           
