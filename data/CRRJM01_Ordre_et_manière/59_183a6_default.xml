@@ -69,13 +69,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="496"
+        <TextBlock HPOS="474"
                    VPOS="184"
-                   WIDTH="1371"
+                   WIDTH="1393"
                    HEIGHT="2607"
                    ID="eSc_textblock_91e730d2"
                    TAGREFS="BT1099">
-          <Shape><Polygon POINTS="496 184 535 2791 1867 2771 1859 184"/></Shape>
+          <Shape><Polygon POINTS="474 184 535 2791 1867 2771 1859 184"/></Shape>
           
           
           <TextLine ID="eSc_line_f13d1ba5"

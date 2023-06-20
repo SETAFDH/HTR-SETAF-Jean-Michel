@@ -697,18 +697,18 @@
           
           
           <TextLine ID="eSc_line_48bed455"
-                    
-                    BASELINE="1436 2555 1693 2553" 
-                    HPOS="1435"
+                    TAGREFS="LT406"
+                    BASELINE="1436 2549 1693 2553" 
+                    HPOS="1433"
                     VPOS="2474"
                     WIDTH="258"
-                    HEIGHT="118">
-            <Shape><Polygon POINTS="1683 2474 1691 2503 1693 2553 1688 2571 1524 2571 1508 2586 1508 2589 1503 2589 1503 2592 1448 2592 1446 2589 1443 2589 1437 2586 1435 2474"/></Shape>
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1435 2547 1433 2589 1545 2584 1547 2584 1550 2584 1550 2581 1571 2568 1686 2568 1691 2550 1688 2474 1435 2477 1435 2547"/></Shape>
 	    <String CONTENT="i. Pe. nc"
-                    HPOS="1435"
+                    HPOS="1433"
                     VPOS="2474"
                     WIDTH="258"
-                    HEIGHT="118"></String>
+                    HEIGHT="115"></String>
           </TextLine>
 
           
