@@ -1,72 +1,40 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: HTR-SETAF-Jean-Michel
-url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 authors:
 - name: Sonia
-  surname: Solfrini
   orcid: 0009-0009-7367-048X
   roles:
   - transcriber
   - project-manager
   - quality-control
+  surname: Solfrini
 - name: Simon
-  surname: Gabay
   orcid: 0000-0001-9094-4475
   roles:
   - support
-- name: "Genevi\xE8ve"
-  surname: Gross
+  surname: Gabay
+- name: Geneviève
   orcid: 0009-0006-5367-4262
   roles:
   - transcriber
   - project-manager
   - quality-control
+  surname: Gross
 - name: Pierre-Olivier
-  surname: Beaulnes
   orcid: 0009-0009-2475-6017
   roles:
   - transcriber
   - quality-control
-- name: "Aur\xE9lia"
-  surname: Marques Oliveira
+  surname: Beaulnes
+- name: Aurélia
   orcid: 0009-0009-9678-9811
   roles:
   - transcriber
   - quality-control
+  surname: Marques Oliveira
 - name: Daniela
-  surname: Solfaroli Camillocci
   roles:
   - project-manager
-institutions: []
-description: Data for the SETAF project
-project-name: SETAF project
-language:
-- fra
-production-software: eScriptorium + Kraken
-script:
-- iso: Latn
-script-type: only-typed
-time:
-  notBefore: '1500'
-  notAfter: '1599'
-hands:
-  count: '1'
-  precision: exact
-license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
-volume:
-- metric: characters
-  count: 57550
-- metric: files
-  count: 169
-- metric: lines
-  count: 4704
-- metric: regions
-  count: 514
+  surname: Solfaroli Camillocci
 characters:
-  mode: NFD
   members:
   - e
   - s
@@ -99,13 +67,13 @@ characters:
   - E
   - I
   - P
-  - "\u204A"
+  - ⁊
   - x
   - S
   - A
   - Q
   - M
-  - "\u0303"
+  - ̃
   - B
   - U
   - O
@@ -115,13 +83,46 @@ characters:
   - N
   - G
   - F
-  - "\xB6"
-  - "\uA751"
-  - "\uA770"
-  - "\u1DE4"
+  - ¶
+  - ꝑ
+  - ꝰ
+  - ᷤ
   - ':'
+  - ͬ
   - v
-  - "\u036C"
-  - "\uA753"
+  - ꝓ
+  - ͥ
   - '8'
-  - "\u1DD1"
+  - ᷑
+  mode: NFD
+description: Data for the SETAF project
+format: Alto-XML
+hands:
+  count: '1'
+  precision: exact
+institutions: []
+language:
+- fra
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: SETAF project
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notAfter: '1599'
+  notBefore: '1500'
+title: HTR-SETAF-Jean-Michel
+url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
+volume:
+- count: 58358
+  metric: characters
+- count: 169
+  metric: files
+- count: 4705
+  metric: lines
+- count: 514
+  metric: regions
