@@ -120,9 +120,9 @@ url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
 - count: 58358
   metric: characters
-- count: 169
+- count: 272
   metric: files
-- count: 4705
+- count: 7711
   metric: lines
-- count: 514
+- count: 886
   metric: regions
