@@ -67,8 +67,8 @@ characters:
   - ;
   - E
   - x
-  - L
   - I
+  - L
   - P
   - S
   - A
@@ -77,9 +77,9 @@ characters:
   - R
   - O
   - B
+  - T
   - ꝰ
   - ͥ
-  - T
   - U
   - G
   - N
@@ -89,15 +89,15 @@ characters:
   - ͬ
   - ꝑ
   - ꝓ
-  - V
   - ':'
   - ᷤ
+  - V
   - ᷑
   - '3'
   - v
   - J
-  - '2'
   - "'"
+  - '2'
   - '1'
   - ÷
   - '7'
@@ -128,11 +128,11 @@ time:
 title: HTR-SETAF-Jean-Michel
 url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
-- count: 190617
+- count: 190627
   metric: characters
-- count: 272
+- count: 263
   metric: files
-- count: 7709
+- count: 7706
   metric: lines
-- count: 885
+- count: 882
   metric: regions
