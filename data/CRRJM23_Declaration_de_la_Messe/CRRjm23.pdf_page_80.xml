@@ -35,17 +35,17 @@
           
           
           <TextLine ID="eSc_line_fed361b2"
-                    TAGREFS="LT424"
-                    BASELINE="407 99 633 97" 
-                    HPOS="405"
+                    TAGREFS="LT425"
+                    BASELINE="405 99 633 97" 
+                    HPOS="403"
                     VPOS="39"
-                    WIDTH="227"
+                    WIDTH="229"
                     HEIGHT="70">
-            <Shape><Polygon POINTS="546 39 545 39 514 51 474 40 473 40 472 40 470 40 447 51 420 42 418 42 412 42 405 49 406 98 406 108 559 103 588 109 589 109 591 109 592 109 609 103 628 109 632 95 629 51 547 39 546 39"/></Shape>
+            <Shape><Polygon POINTS="546 39 545 39 514 51 474 40 473 40 472 40 470 40 447 51 420 42 415 42 412 42 403 51 404 98 404 107 559 103 587 109 589 109 591 109 592 109 593 109 609 103 628 109 632 95 629 51 547 39 546 39"/></Shape>
 	    <String CONTENT="de la messe."
-                    HPOS="405"
+                    HPOS="403"
                     VPOS="39"
-                    WIDTH="227"
+                    WIDTH="229"
                     HEIGHT="70"></String>
           </TextLine>
 
@@ -443,7 +443,7 @@
           
           
           <TextLine ID="eSc_line_a8d2be4c"
-                    
+                    TAGREFS="LT424"
                     BASELINE="138 1228 799 1215" 
                     HPOS="136"
                     VPOS="1176"
@@ -460,7 +460,7 @@
           
           
           <TextLine ID="eSc_line_9a234801"
-                    
+                    TAGREFS="LT424"
                     BASELINE="134 1275 790 1263" 
                     HPOS="131"
                     VPOS="1224"
@@ -548,7 +548,7 @@
           
           
           <TextLine ID="eSc_line_ddc2bc72"
-                    
+                    TAGREFS="LT424"
                     BASELINE="653 1316 792 1312" 
                     HPOS="653"
                     VPOS="1268"
@@ -575,7 +575,7 @@
           
           
           <TextLine ID="eSc_line_03681056"
-                    
+                    TAGREFS="LT424"
                     BASELINE="807 1262 927 1260" 
                     HPOS="804"
                     VPOS="1202"
