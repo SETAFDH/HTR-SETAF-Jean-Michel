@@ -505,17 +505,17 @@
           
           <TextLine ID="eSc_line_2f86a262"
                     TAGREFS="LT406"
-                    BASELINE="1401 436 1678 424" 
-                    HPOS="1398"
-                    VPOS="369"
-                    WIDTH="280"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="1670 372 1678 424 1678 439 1456 445 1454 447 1430 465 1420 465 1402 458 1398 369 1498 369 1524 372"/></Shape>
+                    BASELINE="1417 436 1678 424" 
+                    HPOS="1409"
+                    VPOS="351"
+                    WIDTH="266"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1644 351 1618 351 1592 351 1566 351 1540 351 1514 351 1508 351 1409 353 1415 434 1417 455 1469 439 1482 450 1482 452 1485 452 1487 452 1490 452 1493 452 1495 452 1498 450 1524 437 1675 437 1675 421 1665 351 1644 351"/></Shape>
 	    <String CONTENT="gen.I.D"
-                    HPOS="1398"
-                    VPOS="369"
-                    WIDTH="280"
-                    HEIGHT="96"></String>
+                    HPOS="1409"
+                    VPOS="351"
+                    WIDTH="266"
+                    HEIGHT="104"></String>
           </TextLine>
 
           
@@ -739,17 +739,17 @@
           
           <TextLine ID="eSc_line_a6421e2b"
                     TAGREFS="LT406"
-                    BASELINE="1646 2055 1695 2055" 
-                    HPOS="1646"
-                    VPOS="2055"
-                    WIDTH="49"
-                    HEIGHT="0">
-            
+                    BASELINE="1634 2055 1695 2055" 
+                    HPOS="1633"
+                    VPOS="1959"
+                    WIDTH="60"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="1659 1970 1633 1970 1633 2053 1633 2100 1633 2134 1693 2134 1693 2053 1691 1959 1659 1962 1659 1970"/></Shape>
 	    <String CONTENT=""
-                    HPOS="1646"
-                    VPOS="2055"
-                    WIDTH="49"
-                    HEIGHT="0"></String>
+                    HPOS="1633"
+                    VPOS="1959"
+                    WIDTH="60"
+                    HEIGHT="175"></String>
           </TextLine>
 
           
@@ -783,34 +783,34 @@
           
           <TextLine ID="eSc_line_469057a0"
                     TAGREFS="LT406"
-                    BASELINE="1430 2604 1691 2607" 
-                    HPOS="1430"
-                    VPOS="2511"
-                    WIDTH="261"
-                    HEIGHT="112">
-            <Shape><Polygon POINTS="1667 2540 1680 2542 1691 2607 1688 2623 1430 2623 1431 2523 1435 2524 1490 2511 1501 2511 1501 2514 1516 2527 1516 2529 1623 2529 1641 2534"/></Shape>
+                    BASELINE="1449 2604 1691 2607" 
+                    HPOS="1446"
+                    VPOS="2532"
+                    WIDTH="242"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1605 2532 1579 2532 1553 2532 1527 2532 1501 2532 1474 2532 1448 2532 1448 2602 1446 2620 1686 2620 1688 2605 1686 2537 1605 2532 1605 2532"/></Shape>
 	    <String CONTENT="TeuN."
-                    HPOS="1430"
-                    VPOS="2511"
-                    WIDTH="261"
-                    HEIGHT="112"></String>
+                    HPOS="1446"
+                    VPOS="2532"
+                    WIDTH="242"
+                    HEIGHT="88"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_628a20a5"
                     TAGREFS="LT406"
-                    BASELINE="1430 2692 1547 2693" 
-                    HPOS="1430"
-                    VPOS="2619"
-                    WIDTH="117"
-                    HEIGHT="103">
-            <Shape><Polygon POINTS="1545 2620 1547 2693 1537 2722 1514 2706 1430 2706 1430 2619"/></Shape>
+                    BASELINE="1442 2692 1547 2693" 
+                    HPOS="1441"
+                    VPOS="2618"
+                    WIDTH="104"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1441 2690 1441 2703 1542 2714 1545 2690 1545 2636 1441 2618 1441 2690"/></Shape>
 	    <String CONTENT="B.c."
-                    HPOS="1430"
-                    VPOS="2619"
-                    WIDTH="117"
-                    HEIGHT="103"></String>
+                    HPOS="1441"
+                    VPOS="2618"
+                    WIDTH="104"
+                    HEIGHT="96"></String>
           </TextLine>
 
           
