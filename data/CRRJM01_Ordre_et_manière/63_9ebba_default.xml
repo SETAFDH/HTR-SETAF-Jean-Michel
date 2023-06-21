@@ -127,7 +127,7 @@
                     WIDTH="123"
                     HEIGHT="122">
             <Shape><Polygon POINTS="682 1267 690 1280 771 1225 763 1212 724 1158 648 1217 682 1267"/></Shape>
-	    <String CONTENT="2"
+	    <String CONTENT="et"
                     HPOS="648"
                     VPOS="1158"
                     WIDTH="123"
@@ -144,7 +144,7 @@
                     WIDTH="185"
                     HEIGHT="151">
             <Shape><Polygon POINTS="1461 1178 1451 1197 1607 1270 1615 1257 1636 1204 1490 1119 1461 1178"/></Shape>
-	    <String CONTENT="U o dl"
+	    <String CONTENT="NON"
                     HPOS="1451"
                     VPOS="1119"
                     WIDTH="185"
@@ -161,7 +161,7 @@
                     WIDTH="117"
                     HEIGHT="83">
             <Shape><Polygon POINTS="484 1509 484 1522 601 1522 601 1506 599 1467 573 1441 573 1439 570 1439 568 1439 534 1439 531 1439 529 1439 526 1439 484 1462 484 1509"/></Shape>
-	    <String CONTENT="N"
+	    <String CONTENT="I"
                     HPOS="484"
                     VPOS="1439"
                     WIDTH="117"
@@ -178,7 +178,7 @@
                     WIDTH="284"
                     HEIGHT="312">
             <Shape><Polygon POINTS="1448 1475 1435 1486 1665 1738 1678 1730 1719 1686 1501 1426 1448 1475"/></Shape>
-	    <String CONTENT="dt doleit ⁊"
+	    <String CONTENT="DESPICIET"
                     HPOS="1435"
                     VPOS="1426"
                     WIDTH="284"
@@ -206,17 +206,17 @@
           
           <TextLine ID="eSc_line_6b5ea7e5"
                     TAGREFS="LT406"
-                    BASELINE="655 1781 875 1475" 
-                    HPOS="655"
-                    VPOS="1475"
-                    WIDTH="220"
-                    HEIGHT="306">
-            
-	    <String CONTENT=""
-                    HPOS="655"
-                    VPOS="1475"
-                    WIDTH="220"
-                    HEIGHT="306"></String>
+                    BASELINE="649 1781 875 1475" 
+                    HPOS="601"
+                    VPOS="1431"
+                    WIDTH="285"
+                    HEIGHT="356">
+            <Shape><Polygon POINTS="648 1780 661 1787 886 1483 872 1473 815 1431 601 1743 648 1780"/></Shape>
+	    <String CONTENT="CONTRITUM"
+                    HPOS="601"
+                    VPOS="1431"
+                    WIDTH="285"
+                    HEIGHT="356"></String>
           </TextLine>
 
           
@@ -229,7 +229,7 @@
                     WIDTH="170"
                     HEIGHT="75">
             <Shape><Polygon POINTS="930 2029 927 2045 951 2058 953 2058 956 2058 1094 2045 1097 2032 1094 1983 930 1983 930 2029"/></Shape>
-	    <String CONTENT="COV"
+	    <String CONTENT="COR"
                     HPOS="927"
                     VPOS="1983"
                     WIDTH="170"
