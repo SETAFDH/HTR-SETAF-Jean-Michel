@@ -606,7 +606,7 @@
                     WIDTH="78"
                     HEIGHT="104">
             <Shape><Polygon POINTS="1446 994 1420 994 1415 996 1422 1074 1422 1095 1493 1087 1493 1069 1482 991 1467 994"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="c.d."
                     HPOS="1415"
                     VPOS="991"
                     WIDTH="78"
@@ -745,7 +745,7 @@
                     WIDTH="60"
                     HEIGHT="175">
             <Shape><Polygon POINTS="1659 1970 1633 1970 1633 2053 1633 2100 1633 2134 1693 2134 1693 2053 1691 1959 1659 1962 1659 1970"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="d"
                     HPOS="1633"
                     VPOS="1959"
                     WIDTH="60"
