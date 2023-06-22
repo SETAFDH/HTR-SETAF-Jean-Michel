@@ -470,6 +470,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="59"
+                   VPOS="451"
+                   WIDTH="145"
+                   HEIGHT="63"
+                   ID="eSc_textblock_65e377d8"
+                   TAGREFS="BT1180">
+          <Shape><Polygon POINTS="59 451 59 514 204 514 204 465"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9097719d"
+                    TAGREFS="LT427"
+                    BASELINE="70 502 204 500" 
+                    HPOS="69"
+                    VPOS="456"
+                    WIDTH="146"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="81 457 86 456 214 462 215 515 202 514 148 509 140 515 139 517 135 517 128 515 96 510 71 517 70 502 69 462"/></Shape>
+	    <String CONTENT=""
+                    HPOS="69"
+                    VPOS="456"
+                    WIDTH="146"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="50"
                    VPOS="822"
                    WIDTH="118"
@@ -519,33 +546,6 @@
                     VPOS="1107"
                     WIDTH="138"
                     HEIGHT="55"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="59"
-                   VPOS="451"
-                   WIDTH="145"
-                   HEIGHT="63"
-                   ID="eSc_textblock_65e377d8"
-                   TAGREFS="BT1180">
-          <Shape><Polygon POINTS="59 451 59 514 204 514 204 465"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_9097719d"
-                    
-                    BASELINE="70 502 204 500" 
-                    HPOS="69"
-                    VPOS="456"
-                    WIDTH="146"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="81 457 86 456 214 462 215 515 202 514 148 509 140 515 139 517 135 517 128 515 96 510 71 517 70 502 69 462"/></Shape>
-	    <String CONTENT=""
-                    HPOS="69"
-                    VPOS="456"
-                    WIDTH="146"
-                    HEIGHT="61"></String>
           </TextLine>
 
           
