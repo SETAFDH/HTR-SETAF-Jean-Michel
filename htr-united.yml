@@ -1,115 +1,138 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: HTR-SETAF-Jean-Michel
-url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 authors:
 - name: Sonia
-  surname: Solfrini
   orcid: 0009-0009-7367-048X
   roles:
   - transcriber
   - project-manager
   - quality-control
+  surname: Solfrini
 - name: Simon
-  surname: Gabay
   orcid: 0000-0001-9094-4475
   roles:
   - support
-- name: "Genevi\xE8ve"
-  surname: Gross
+  surname: Gabay
+- name: Geneviève
   orcid: 0009-0006-5367-4262
   roles:
   - transcriber
   - project-manager
   - quality-control
+  surname: Gross
 - name: Pierre-Olivier
-  surname: Beaulnes
   orcid: 0009-0009-2475-6017
   roles:
   - transcriber
   - quality-control
-- name: "Aur\xE9lia"
-  surname: Marques Oliveira
+  surname: Beaulnes
+- name: Aurélia
   orcid: 0009-0009-9678-9811
   roles:
   - transcriber
   - quality-control
+  surname: Marques Oliveira
 - name: Daniela
-  surname: Solfaroli Camillocci
   roles:
   - project-manager
-institutions: []
+  surname: Solfaroli Camillocci
+characters:
+  members:
+  - e
+  - s
+  - u
+  - i
+  - a
+  - t
+  - n
+  - r
+  - o
+  - l
+  - c
+  - d
+  - p
+  - m
+  - .
+  - f
+  - q
+  - ','
+  - g
+  - ̃
+  - y
+  - b
+  - ⁊
+  - '-'
+  - h
+  - z
+  - C
+  - D
+  - ;
+  - E
+  - x
+  - I
+  - L
+  - P
+  - S
+  - A
+  - M
+  - Q
+  - R
+  - O
+  - B
+  - T
+  - ꝰ
+  - ͥ
+  - U
+  - G
+  - N
+  - H
+  - ¶
+  - F
+  - ͬ
+  - ꝑ
+  - ꝓ
+  - ':'
+  - ᷤ
+  - V
+  - ᷑
+  - '3'
+  - v
+  - J
+  - "'"
+  - '2'
+  - '1'
+  - ÷
+  - '7'
+  - ̾
+  - ꝯ
+  - '8'
+  mode: NFD
 description: Data for the SETAF project
-project-name: SETAF project
+format: Alto-XML
+hands:
+  count: '1'
+  precision: exact
+institutions: []
 language:
 - fra
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
+project-name: SETAF project
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - iso: Latn
 script-type: only-typed
 time:
-  notBefore: '1500'
   notAfter: '1599'
-hands:
-  count: '1'
-  precision: exact
-license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+  notBefore: '1500'
+title: HTR-SETAF-Jean-Michel
+url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
-- metric: characters
-  count: 384
-- metric: files
-  count: 1
-- metric: lines
-  count: 25
-- metric: regions
-  count: 2
-characters:
-  mode: NFD
-  members:
-  - e
-  - a
-  - i
-  - r
-  - s
-  - t
-  - n
-  - o
-  - .
-  - u
-  - l
-  - d
-  - p
-  - c
-  - h
-  - m
-  - C
-  - L
-  - ','
-  - z
-  - y
-  - M
-  - q
-  - E
-  - I
-  - '-'
-  - "\u0303"
-  - g
-  - b
-  - A
-  - "\xB6"
-  - x
-  - ;
-  - "\u204A"
-  - F
-  - S
-  - B
-  - H
-  - P
-  - Y
-  - V
-  - N
-  - T
-  - G
-  - R
+- count: 190632
+  metric: characters
+- count: 263
+  metric: files
+- count: 7705
+  metric: lines
+- count: 882
+  metric: regions

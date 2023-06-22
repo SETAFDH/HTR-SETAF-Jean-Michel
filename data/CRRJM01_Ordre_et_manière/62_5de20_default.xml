@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>62_5de20_default.jpg</fileName>
+      <fileIdentifier>https://www.e-rara.ch/i3f/v20/9481859/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1096" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1097" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1098" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1099" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1100" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1101" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1102" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1103" LABEL="QuireMarksZone:catchword" DESCRIPTION="block type QuireMarksZone:catchword"/><OtherTag ID="BT1104" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT1105" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1106" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1107" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1108" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1109" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="LT406" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT407" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT408" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1931"
+          HEIGHT="3123"
+          PHYSICAL_IMG_NR="62"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1931"
+                  HEIGHT="3123">
+        
+        <TextBlock HPOS="298"
+                   VPOS="1347"
+                   WIDTH="1078"
+                   HEIGHT="545"
+                   ID="eSc_textblock_b79ded93"
+                   TAGREFS="BT1099">
+          <Shape><Polygon POINTS="298 1347 298 1892 1376 1892 1376 1347"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0c476b22"
+                    TAGREFS="LT406"
+                    BASELINE="337 1467 1302 1454" 
+                    HPOS="333"
+                    VPOS="1293"
+                    WIDTH="967"
+                    HEIGHT="216">
+            <Shape><Polygon POINTS="336 1465 336 1501 383 1509 385 1509 388 1509 390 1509 401 1501 424 1488 497 1501 515 1504 518 1504 521 1504 523 1504 523 1501 526 1501 539 1486 638 1486 674 1501 677 1501 680 1501 682 1501 695 1501 784 1488 823 1499 836 1504 839 1504 841 1504 844 1504 846 1504 852 1499 875 1486 896 1499 901 1504 904 1504 906 1504 909 1504 912 1504 914 1504 919 1499 943 1480 1044 1499 1050 1499 1052 1499 1055 1499 1058 1499 1107 1478 1133 1496 1136 1496 1138 1496 1141 1499 1300 1499 1300 1452 1292 1293 1230 1296 1227 1296 1224 1296 1224 1298 1206 1314 1157 1296 1154 1296 1151 1296 1149 1296 1146 1296 1117 1314 1068 1298 1065 1298 1063 1298 1060 1298 1058 1298 1058 1301 1039 1319 833 1319 792 1306 776 1301 773 1301 771 1301 768 1301 750 1306 706 1324 643 1324 625 1309 617 1303 615 1303 612 1303 609 1303 607 1303 586 1311 570 1316 560 1311 542 1303 539 1303 536 1303 534 1303 531 1303 521 1314 508 1322 471 1314 432 1306 429 1306 333 1316 336 1465"/></Shape>
+	    <String CONTENT="Umprime pai u han dichet"
+                    HPOS="333"
+                    VPOS="1293"
+                    WIDTH="967"
+                    HEIGHT="216"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ef7153d"
+                    TAGREFS="LT406"
+                    BASELINE="419 1551 1219 1545" 
+                    HPOS="416"
+                    VPOS="1475"
+                    WIDTH="803"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="419 1551 419 1569 547 1569 549 1569 568 1584 568 1587 570 1587 573 1587 575 1590 695 1590 695 1587 698 1587 724 1574 734 1569 828 1577 953 1584 956 1584 958 1584 961 1584 969 1579 990 1566 1024 1579 1039 1584 1042 1584 1044 1587 1102 1587 1102 1584 1104 1584 1107 1584 1110 1582 1130 1566 1216 1582 1219 1545 1214 1475 416 1475 419 1551"/></Shape>
+	    <String CONTENT="demourant en la place"
+                    HPOS="416"
+                    VPOS="1475"
+                    WIDTH="803"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffc2d3b0"
+                    TAGREFS="LT406"
+                    BASELINE="479 1649 912 1636 1167 1642" 
+                    HPOS="476"
+                    VPOS="1548"
+                    WIDTH="691"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="1128 1548 1120 1548 1084 1558 1047 1566 1024 1556 1003 1548 998 1548 974 1548 964 1556 948 1569 854 1569 813 1556 797 1551 789 1551 763 1551 753 1551 742 1553 680 1574 573 1574 544 1553 544 1551 542 1551 539 1551 536 1551 476 1551 479 1649 479 1676 591 1668 607 1678 607 1681 609 1681 612 1681 615 1681 617 1681 622 1678 654 1665 674 1678 677 1681 680 1681 682 1681 685 1681 687 1681 695 1678 740 1665 760 1678 763 1678 766 1678 768 1678 771 1678 802 1662 833 1678 841 1681 844 1681 846 1681 849 1681 857 1678 896 1662 922 1678 925 1681 927 1681 930 1681 932 1681 935 1681 943 1678 990 1660 1042 1678 1047 1678 1050 1678 1052 1678 1167 1676 1167 1642 1164 1556 1144 1548 1128 1548"/></Shape>
+	    <String CONTENT="Sainct Pierre deuãt"
+                    HPOS="476"
+                    VPOS="1548"
+                    WIDTH="691"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9241ceb2"
+                    TAGREFS="LT406"
+                    BASELINE="555 1735 1087 1732" 
+                    HPOS="549"
+                    VPOS="1644"
+                    WIDTH="537"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="552 1733 552 1772 669 1785 672 1785 674 1785 706 1772 732 1761 886 1761 901 1769 919 1782 922 1782 925 1782 1063 1785 1065 1785 1068 1785 1071 1785 1086 1772 1086 1730 1081 1660 1003 1644 1000 1644 998 1644 948 1657 932 1660 925 1655 906 1644 904 1644 901 1644 899 1644 896 1644 865 1655 849 1660 831 1655 805 1644 802 1644 800 1644 753 1652 708 1660 549 1649 552 1733"/></Shape>
+	    <String CONTENT="la grãd E glise."
+                    HPOS="549"
+                    VPOS="1644"
+                    WIDTH="537"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7796205"
+                    TAGREFS="LT406"
+                    BASELINE="703 1832 929 1832" 
+                    HPOS="700"
+                    VPOS="1738"
+                    WIDTH="227"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="700 1829 700 1852 925 1871 927 1829 927 1754 891 1738 888 1738 886 1738 700 1751 700 1829"/></Shape>
+	    <String CONTENT="2I d."
+                    HPOS="700"
+                    VPOS="1738"
+                    WIDTH="227"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
