@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>72_54d10_default.jpg</fileName>
+      <fileIdentifier>https://www.e-rara.ch/i3f/v20/4519010/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1184" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1185" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1178" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1179" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1180" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1181" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/><OtherTag ID="BT1182" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1183" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="LT427" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT428" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT429" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1013"
+          HEIGHT="1515"
+          PHYSICAL_IMG_NR="72"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1013"
+                  HEIGHT="1515">
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
