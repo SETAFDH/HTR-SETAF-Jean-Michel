@@ -53,12 +53,12 @@
         </TextBlock>
         
         <TextBlock HPOS="46"
-                   VPOS="64"
+                   VPOS="74"
                    WIDTH="701"
-                   HEIGHT="1145"
+                   HEIGHT="1135"
                    ID="eSc_textblock_50ac1b1d"
                    TAGREFS="BT1178">
-          <Shape><Polygon POINTS="94 64 46 1194 705 1209 747 83"/></Shape>
+          <Shape><Polygon POINTS="87 74 46 1194 705 1209 747 83"/></Shape>
           
           
           <TextLine ID="eSc_line_257c6d25"
