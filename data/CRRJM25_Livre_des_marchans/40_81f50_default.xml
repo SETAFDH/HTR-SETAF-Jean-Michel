@@ -460,28 +460,28 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="696"
+        <TextBlock HPOS="692"
                    VPOS="1044"
-                   WIDTH="119"
+                   WIDTH="123"
                    HEIGHT="146"
                    ID="eSc_textblock_1aaa982b"
                    TAGREFS="BT1180">
-          <Shape><Polygon POINTS="696 1044 696 1190 815 1190 815 1044"/></Shape>
+          <Shape><Polygon POINTS="696 1044 692 1190 815 1190 815 1044"/></Shape>
           
           
           <TextLine ID="eSc_line_24887b2c"
                     TAGREFS="LT427"
-                    BASELINE="701 1096 750 1096 811 1088" 
-                    HPOS="692"
-                    VPOS="1053"
-                    WIDTH="119"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="800 1056 811 1076 811 1088 810 1107 715 1107 712 1108 692 1053 796 1053"/></Shape>
-	    <String CONTENT="De ser"
-                    HPOS="692"
-                    VPOS="1053"
-                    WIDTH="119"
-                    HEIGHT="55"></String>
+                    BASELINE="701 1096 750 1096 807 1099" 
+                    HPOS="699"
+                    VPOS="1044"
+                    WIDTH="107"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="737 1044 725 1044 712 1044 700 1044 700 1095 699 1102 804 1103 806 1098 806 1050 740 1044 737 1044"/></Shape>
+	    <String CONTENT="De se."
+                    HPOS="699"
+                    VPOS="1044"
+                    WIDTH="107"
+                    HEIGHT="59"></String>
           </TextLine>
 
           
@@ -503,19 +503,19 @@
 
           
           
-          <TextLine ID="eSc_line_225ef5ad"
+          <TextLine ID="eSc_line_dbc97c9f"
                     TAGREFS="LT427"
-                    BASELINE="703 1181 739 1181" 
-                    HPOS="703"
-                    VPOS="1181"
-                    WIDTH="36"
-                    HEIGHT="0">
-            
-	    <String CONTENT=""
-                    HPOS="703"
-                    VPOS="1181"
-                    WIDTH="36"
-                    HEIGHT="0"></String>
+                    BASELINE="707 1173 743 1175" 
+                    HPOS="704"
+                    VPOS="1142"
+                    WIDTH="38"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="706 1172 704 1189 740 1192 742 1174 742 1149 706 1142 706 1172"/></Shape>
+	    <String CONTENT="M3"
+                    HPOS="704"
+                    VPOS="1142"
+                    WIDTH="38"
+                    HEIGHT="50"></String>
           </TextLine>
 
           
