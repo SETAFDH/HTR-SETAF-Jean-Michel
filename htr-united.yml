@@ -41,8 +41,8 @@ characters:
   - u
   - i
   - a
-  - t
   - n
+  - t
   - r
   - o
   - l
@@ -51,26 +51,28 @@ characters:
   - p
   - m
   - .
-  - ','
   - q
   - f
+  - ','
   - ̃
   - g
   - b
   - y
   - h
   - ⁊
-  - '-'
   - z
-  - ;
+  - '-'
+  - /
   - C
-  - D
   - x
+  - D
   - E
   - I
   - P
   - L
+  - ;
   - S
+  - ':'
   - A
   - M
   - Q
@@ -78,32 +80,37 @@ characters:
   - O
   - ͥ
   - T
-  - ꝰ
   - B
+  - ꝰ
   - U
-  - G
   - N
+  - G
   - H
+  - '?'
   - ¶
   - ͬ
   - F
   - ꝓ
   - ꝑ
-  - ᷑
-  - V
-  - ':'
-  - ᷤ
-  - J
+  -  
   - '3'
-  - v
-  - "'"
+  - V
   - '2'
+  - ᷑
+  - (
+  - )
+  - J
+  - '4'
+  - '5'
+  - "'"
   - '7'
+  - v
+  - ᷤ
+  - Y
   - '1'
   - ÷
   - ̾
   - ꝯ
-  - '8'
   mode: NFD
 description: Data for the SETAF project
 format: Alto-XML
@@ -128,11 +135,11 @@ time:
 title: HTR-SETAF-Jean-Michel
 url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
-- count: 236049
+- count: 236289
   metric: characters
-- count: 339
+- count: 356
   metric: files
-- count: 9372
+- count: 9374
   metric: lines
-- count: 1078
+- count: 1079
   metric: regions
