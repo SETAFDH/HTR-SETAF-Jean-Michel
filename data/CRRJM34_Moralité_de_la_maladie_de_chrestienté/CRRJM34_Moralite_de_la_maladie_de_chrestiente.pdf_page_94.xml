@@ -29,9 +29,9 @@
                    VPOS="61"
                    WIDTH="808"
                    HEIGHT="1240"
-                   ID="eSc_textblock_68b9e308"
-                   >
-          <Shape><Polygon POINTS="638 383 594 455 722 463 836 775 710 844 707 914 629 927 629 1300 28 1301 55 61 685 65 683 153 578 166 567 319"/></Shape>
+                   ID="eSc_textblock_92d63fa7"
+                   TAGREFS="BT1039">
+          <Shape><Polygon POINTS="638 383 594 459 722 463 836 775 710 844 707 914 629 927 629 1300 28 1301 55 61 685 65 683 153 578 166 567 319"/></Shape>
           
           
           <TextLine ID="eSc_line_9a024320"
@@ -47,23 +47,6 @@
                     VPOS="70"
                     WIDTH="593"
                     HEIGHT="75"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_a8a92483"
-                    TAGREFS="LT390"
-                    BASELINE="303 168 526 171" 
-                    HPOS="301"
-                    VPOS="124"
-                    WIDTH="225"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="475 125 448 133 446 133 442 131 423 125 417 125 406 124 386 131 381 131 354 131 352 130 343 124 341 124 332 124 303 129 303 168 301 179 524 179 526 171 524 134 488 125 480 125"/></Shape>
-	    <String CONTENT="Le medecin."
-                    HPOS="301"
-                    VPOS="124"
-                    WIDTH="225"
-                    HEIGHT="55"></String>
           </TextLine>
 
           
@@ -85,6 +68,23 @@
 
           
           
+          <TextLine ID="eSc_line_a8a92483"
+                    TAGREFS="LT390"
+                    BASELINE="303 168 526 171" 
+                    HPOS="301"
+                    VPOS="124"
+                    WIDTH="225"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="475 125 448 133 446 133 442 131 423 125 417 125 406 124 386 131 381 131 354 131 352 130 343 124 341 124 332 124 303 129 303 168 301 179 524 179 526 171 524 134 488 125 480 125"/></Shape>
+	    <String CONTENT="Le medecin."
+                    HPOS="301"
+                    VPOS="124"
+                    WIDTH="225"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_53566ebf"
                     TAGREFS="LT389"
                     BASELINE="68 258 561 263" 
@@ -102,23 +102,6 @@
 
           
           
-          <TextLine ID="eSc_line_1bb53a4c"
-                    TAGREFS="LT390"
-                    BASELINE="286 309 540 309" 
-                    HPOS="286"
-                    VPOS="264"
-                    WIDTH="254"
-                    HEIGHT="62">
-            <Shape><Polygon POINTS="286 323 538 326 540 309 540 277 448 268 447 268 391 273 376 266 375 266 374 266 349 271 342 264 341 264 339 264 303 264 301 264 300 264 299 264 286 272 286 309"/></Shape>
-	    <String CONTENT="Bon oeuure."
-                    HPOS="286"
-                    VPOS="264"
-                    WIDTH="254"
-                    HEIGHT="62"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_9fdbfaae"
                     TAGREFS="LT389"
                     BASELINE="64 353 206 350 567 358" 
@@ -132,6 +115,23 @@
                     VPOS="298"
                     WIDTH="504"
                     HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1bb53a4c"
+                    TAGREFS="LT390"
+                    BASELINE="286 309 540 309" 
+                    HPOS="286"
+                    VPOS="264"
+                    WIDTH="254"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="286 323 538 326 540 309 540 277 448 268 447 268 391 273 376 266 375 266 374 266 349 271 342 264 341 264 339 264 303 264 301 264 300 264 299 264 286 272 286 309"/></Shape>
+	    <String CONTENT="Bon oeuure."
+                    HPOS="286"
+                    VPOS="264"
+                    WIDTH="254"
+                    HEIGHT="62"></String>
           </TextLine>
 
           
@@ -280,7 +280,7 @@
                     WIDTH="578"
                     HEIGHT="62">
             <Shape><Polygon POINTS="528 727 527 727 526 727 524 727 499 733 490 735 474 733 428 725 427 725 399 732 396 732 393 732 356 725 354 725 353 725 352 725 352 727 347 730 342 734 239 733 221 728 199 723 197 723 178 727 158 732 55 725 55 766 54 779 193 775 210 781 214 782 215 782 216 784 309 784 309 782 310 782 311 782 311 781 318 776 335 781 342 784 343 784 344 784 372 782 431 777 475 782 500 785 502 785 519 782 546 779 630 782 632 771 632 737 538 737 537 734 529 728 529 727 528 727"/></Shape>
-	    <String CONTENT="Son alliance: Cest ma fiance ."
+	    <String CONTENT="Son alliance: Cest ma fiance."
                     HPOS="54"
                     VPOS="723"
                     WIDTH="578"
@@ -481,9 +481,9 @@
                    VPOS="403"
                    WIDTH="205"
                    HEIGHT="61"
-                   ID="eSc_textblock_d03f72be"
+                   ID="eSc_textblock_5ec6e445"
                    TAGREFS="BT1044">
-          <Shape><Polygon POINTS="630 403 622 462 825 464 827 403"/></Shape>
+          <Shape><Polygon POINTS="630 403 622 454 825 464 827 403"/></Shape>
           
           
           <TextLine ID="eSc_line_d257589f"
@@ -508,9 +508,9 @@
                    VPOS="868"
                    WIDTH="91"
                    HEIGHT="52"
-                   ID="eSc_textblock_2841eea7"
+                   ID="eSc_textblock_d152beff"
                    TAGREFS="BT1044">
-          <Shape><Polygon POINTS="725 868 725 920 816 920 816 868"/></Shape>
+          <Shape><Polygon POINTS="725 868 725 918 816 920 816 868"/></Shape>
           
           
           <TextLine ID="eSc_line_ee04a306"
@@ -532,12 +532,12 @@
         </TextBlock>
         
         <TextBlock HPOS="649"
-                   VPOS="918"
+                   VPOS="921"
                    WIDTH="162"
-                   HEIGHT="59"
-                   ID="eSc_textblock_1b06ee6e"
+                   HEIGHT="56"
+                   ID="eSc_textblock_47701a17"
                    TAGREFS="BT1044">
-          <Shape><Polygon POINTS="649 928 656 977 811 977 811 930 705 918"/></Shape>
+          <Shape><Polygon POINTS="649 928 656 977 811 977 811 925 705 921"/></Shape>
           
           
           <TextLine ID="eSc_line_c08c8002"
@@ -562,7 +562,7 @@
                    VPOS="1282"
                    WIDTH="155"
                    HEIGHT="76"
-                   ID="eSc_textblock_1f018739"
+                   ID="eSc_textblock_c7c85802"
                    TAGREFS="BT1114">
           <Shape><Polygon POINTS="658 1282 658 1358 813 1358 813 1282"/></Shape>
           
