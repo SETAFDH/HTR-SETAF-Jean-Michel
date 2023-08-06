@@ -358,18 +358,18 @@
           
           
           <TextLine ID="eSc_line_208ddfab"
-                    
-                    BASELINE="135 2118 1424 2118" 
-                    HPOS="132"
-                    VPOS="2045"
-                    WIDTH="1290"
-                    HEIGHT="91">
-            <Shape><Polygon POINTS="132 2115 132 2136 1422 2136 1422 2115 1420 2045 132 2045 132 2115"/></Shape>
+                    TAGREFS="LT406"
+                    BASELINE="135 2122 1424 2118" 
+                    HPOS="130"
+                    VPOS="2029"
+                    WIDTH="1292"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="132 2121 132 2136 1420 2136 1422 2115 1417 2045 953 2029 951 2029 810 2042 776 2029 773 2029 771 2029 768 2029 766 2029 740 2045 737 2045 721 2045 242 2032 239 2032 237 2032 234 2032 218 2045 164 2032 161 2032 158 2032 156 2032 130 2042 132 2121"/></Shape>
 	    <String CONTENT="entre nous/ mais singulierement et a"
-                    HPOS="132"
-                    VPOS="2045"
-                    WIDTH="1290"
-                    HEIGHT="91"></String>
+                    HPOS="130"
+                    VPOS="2029"
+                    WIDTH="1292"
+                    HEIGHT="107"></String>
           </TextLine>
 
           

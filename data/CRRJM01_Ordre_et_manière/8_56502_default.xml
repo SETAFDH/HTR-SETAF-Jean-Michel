@@ -592,13 +592,13 @@
           
           
           <TextLine ID="eSc_line_d488c035"
-                    
+                    TAGREFS="LT406"
                     BASELINE="1427 882 1560 879" 
                     HPOS="1422"
                     VPOS="819"
                     WIDTH="136"
                     HEIGHT="86">
-            <Shape><Polygon POINTS="1425 879 1425 905 1558 903 1558 877 1553 819 1422 819 1425 879"/></Shape>
+            <Shape><Polygon POINTS="1425 905 1558 903 1558 877 1553 819 1422 819 1425 879"/></Shape>
 	    <String CONTENT="10.g."
                     HPOS="1422"
                     VPOS="819"
