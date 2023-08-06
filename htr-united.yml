@@ -100,8 +100,8 @@ characters:
   - '8'
   - '0'
   - '7'
-  - ꝑ
   - '9'
+  - ꝑ
   -  
   - (
   - )
@@ -138,7 +138,7 @@ time:
 title: HTR-SETAF-Jean-Michel
 url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
-- count: 236717
+- count: 236739
   metric: characters
 - count: 356
   metric: files
