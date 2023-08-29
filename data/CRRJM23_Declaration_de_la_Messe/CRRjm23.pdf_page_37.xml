@@ -144,7 +144,7 @@
                     WIDTH="660"
                     HEIGHT="59">
             <Shape><Polygon POINTS="187 375 186 383 203 389 204 389 205 389 279 384 291 383 293 384 299 389 299 390 300 390 302 390 303 390 347 385 355 384 360 385 379 390 380 390 382 390 420 386 427 385 429 386 434 390 434 391 435 391 436 391 437 391 476 386 492 385 501 388 519 393 520 393 521 393 548 388 559 386 844 393 846 383 846 341 187 334 187 375"/></Shape>
-	    <String CONTENT="de deceptiõ, ⁊ que en icelle il nya poĩt"
+	    <String CONTENT="de deceptiõ, ⁊ que en icelle il ny a poĩt"
                     HPOS="186"
                     VPOS="334"
                     WIDTH="660"
@@ -229,7 +229,7 @@
                     WIDTH="661"
                     HEIGHT="57">
             <Shape><Polygon POINTS="804 569 800 569 788 574 762 569 753 569 741 569 728 569 720 569 620 573 613 573 611 573 595 568 588 568 576 568 525 573 515 573 507 573 472 566 462 566 456 566 431 572 429 572 303 572 303 570 286 564 285 564 284 564 182 569 182 610 181 621 841 621 842 615 841 575 812 569 804 569"/></Shape>
-	    <String CONTENT="qu il nya ne pain ne uin, mais seule-"
+	    <String CONTENT="qu il ny a ne pain ne uin, mais seule-"
                     HPOS="181"
                     VPOS="564"
                     WIDTH="661"
