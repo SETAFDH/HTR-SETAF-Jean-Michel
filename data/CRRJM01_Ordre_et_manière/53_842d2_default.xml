@@ -25,50 +25,6 @@
                   WIDTH="1931"
                   HEIGHT="3123">
         
-        <TextBlock HPOS="125"
-                   VPOS="390"
-                   WIDTH="281"
-                   HEIGHT="198"
-                   ID="eSc_textblock_790221ad"
-                   TAGREFS="BT1100">
-          <Shape><Polygon POINTS="125 390 125 588 406 588 406 390"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_958e4ce0"
-                    TAGREFS="LT406"
-                    BASELINE="130 484 406 475" 
-                    HPOS="127"
-                    VPOS="392"
-                    WIDTH="280"
-                    HEIGHT="110">
-            <Shape><Polygon POINTS="130 502 130 484 127 426 151 392 182 392 203 405 396 400 403 393 407 495"/></Shape>
-	    <String CONTENT="Act. ⁊.G."
-                    HPOS="127"
-                    VPOS="392"
-                    WIDTH="280"
-                    HEIGHT="110"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_358bde2a"
-                    TAGREFS="LT406"
-                    BASELINE="130 569 406 561" 
-                    HPOS="125"
-                    VPOS="476"
-                    WIDTH="282"
-                    HEIGHT="119">
-            <Shape><Polygon POINTS="130 595 130 569 125 486 278 481 281 481 284 478 359 478 385 476 404 477 407 595"/></Shape>
-	    <String CONTENT="Philz. b"
-                    HPOS="125"
-                    VPOS="476"
-                    WIDTH="282"
-                    HEIGHT="119"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="399"
                    VPOS="219"
                    WIDTH="1406"
@@ -560,6 +516,50 @@
                     VPOS="2761"
                     WIDTH="240"
                     HEIGHT="127"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="125"
+                   VPOS="390"
+                   WIDTH="281"
+                   HEIGHT="198"
+                   ID="eSc_textblock_790221ad"
+                   TAGREFS="BT1100">
+          <Shape><Polygon POINTS="125 390 125 588 406 588 406 390"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_958e4ce0"
+                    TAGREFS="LT406"
+                    BASELINE="130 484 406 475" 
+                    HPOS="127"
+                    VPOS="392"
+                    WIDTH="280"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="130 502 130 484 127 426 151 392 182 392 203 405 396 400 403 393 407 495"/></Shape>
+	    <String CONTENT="Act.4.b."
+                    HPOS="127"
+                    VPOS="392"
+                    WIDTH="280"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_358bde2a"
+                    TAGREFS="LT406"
+                    BASELINE="130 569 406 561" 
+                    HPOS="125"
+                    VPOS="476"
+                    WIDTH="282"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="130 595 130 569 125 486 278 481 281 481 284 478 359 478 385 476 404 477 407 595"/></Shape>
+	    <String CONTENT="Phil.3.b"
+                    HPOS="125"
+                    VPOS="476"
+                    WIDTH="282"
+                    HEIGHT="119"></String>
           </TextLine>
 
           
