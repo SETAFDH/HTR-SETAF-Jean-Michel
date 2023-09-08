@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1184" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1185" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1178" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1179" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1180" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1181" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/><OtherTag ID="BT1182" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1183" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="BT1178" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1179" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1180" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1181" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/><OtherTag ID="BT1182" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1183" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1184" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1185" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT427" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT428" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT429" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -42,7 +42,7 @@
                     WIDTH="635"
                     HEIGHT="56">
             <Shape><Polygon POINTS="707 107 695 107 683 107 670 107 658 107 646 107 633 107 621 106 609 106 596 106 584 106 572 106 559 106 547 104 534 104 522 104 510 104 497 104 485 104 473 103 460 103 448 103 436 103 423 103 411 103 399 103 386 102 374 102 362 102 349 102 337 102 324 102 312 101 300 101 287 101 275 101 263 101 250 101 238 101 226 99 213 99 201 99 189 99 176 99 164 99 158 98 88 98 77 98 79 141 79 154 150 148 192 154 197 154 198 154 203 154 234 148 337 153 375 154 376 154 392 151 427 148 710 149 712 139 710 112 707 107"/></Shape>
-	    <String CONTENT="soyent gros marchans, ou menus."
+	    <String CONTENT="soyent gros marchans, ou menus:"
                     HPOS="77"
                     VPOS="98"
                     WIDTH="635"
@@ -93,7 +93,7 @@
                     WIDTH="641"
                     HEIGHT="52">
             <Shape><Polygon POINTS="700 236 287 234 279 235 266 235 254 235 242 235 229 235 217 235 205 235 192 235 180 235 168 235 155 235 143 235 130 235 118 235 106 235 93 235 81 235 69 239 70 281 70 286 710 286 710 278 705 246 700 236"/></Shape>
-	    <String CONTENT="les; mais les plus gros la uendent"
+	    <String CONTENT="les: mais les plus gros la uendent"
                     HPOS="69"
                     VPOS="234"
                     WIDTH="641"
@@ -127,7 +127,7 @@
                     WIDTH="637"
                     HEIGHT="55">
             <Shape><Polygon POINTS="700 335 626 335 599 327 597 327 596 327 595 327 594 327 580 335 522 335 492 327 491 327 490 327 447 334 439 328 439 327 438 327 437 327 406 327 405 327 404 327 383 335 265 328 264 328 263 328 261 328 250 335 168 335 100 328 98 328 97 328 69 336 70 372 70 380 704 382 706 370 705 359 700 335"/></Shape>
-	    <String CONTENT="a la queue dun parchemin; ce que ie"
+	    <String CONTENT="a la queue dun parchemin: ce que ie"
                     HPOS="69"
                     VPOS="327"
                     WIDTH="637"
@@ -161,7 +161,7 @@
                     WIDTH="632"
                     HEIGHT="55">
             <Shape><Polygon POINTS="703 425 649 418 648 418 647 418 622 427 546 427 527 418 526 418 525 418 479 427 428 427 421 419 420 419 418 419 417 419 368 425 358 418 357 418 355 418 354 418 305 424 270 418 269 418 268 418 253 425 222 418 221 418 219 418 218 418 186 425 109 418 108 418 107 418 106 418 106 419 98 427 72 427 72 465 72 473 704 471 704 465 704 429 703 425"/></Shape>
-	    <String CONTENT="officiaulx. seelleurs, copistes, datai-"
+	    <String CONTENT="officiaulx, seelleurs, copistes, datai-"
                     HPOS="72"
                     VPOS="418"
                     WIDTH="632"
@@ -212,7 +212,7 @@
                     WIDTH="586"
                     HEIGHT="58">
             <Shape><Polygon POINTS="118 607 118 617 265 610 369 615 396 617 397 617 399 617 404 615 423 609 429 614 429 615 431 615 432 615 433 615 437 615 464 609 500 615 507 615 509 615 701 613 703 602 700 561 289 559 287 559 161 566 140 560 139 560 138 560 137 560 117 567 118 607"/></Shape>
-	    <String CONTENT="Le grand galiffre. ie dis le grand"
+	    <String CONTENT="Le grand galiffre, ie dis le grand"
                     HPOS="117"
                     VPOS="559"
                     WIDTH="586"
@@ -314,7 +314,7 @@
                     WIDTH="632"
                     HEIGHT="56">
             <Shape><Polygon POINTS="327 837 315 837 302 837 290 837 277 837 265 837 253 837 240 837 237 837 222 842 129 839 117 839 105 839 92 839 91 839 67 846 69 884 69 893 698 893 699 879 696 842 333 837 327 837"/></Shape>
-	    <String CONTENT="chimiste, qui soubz le plomb. par luy"
+	    <String CONTENT="chimiste, qui soubz le plomb, par luy"
                     HPOS="67"
                     VPOS="837"
                     WIDTH="632"
@@ -331,7 +331,7 @@
                     WIDTH="633"
                     HEIGHT="53">
             <Shape><Polygon POINTS="187 884 186 884 185 884 171 892 169 893 140 893 139 892 130 884 129 884 128 884 127 884 69 891 69 929 67 937 699 935 700 931 699 894 662 894 662 893 653 886 653 884 652 884 651 884 605 884 604 884 602 884 581 893 580 894 554 894 554 893 546 886 546 884 544 884 543 884 521 884 520 884 518 884 517 884 517 886 509 893 492 884 491 884 490 884 444 891 402 884 401 884 400 884 381 892 364 884 363 884 362 884 360 884 342 892 282 886 281 886 280 886 279 886 271 892 271 893 219 893 217 892 189 884 187 884"/></Shape>
-	    <String CONTENT="sl les siens, trouuast telle ueine dor."
+	    <String CONTENT="⁊ les siens, trouuast telle ueine dor."
                     HPOS="67"
                     VPOS="884"
                     WIDTH="633"
@@ -348,7 +348,7 @@
                     WIDTH="633"
                     HEIGHT="57">
             <Shape><Polygon POINTS="449 931 437 931 432 931 429 934 427 935 415 934 397 931 387 931 383 930 379 934 374 937 308 937 305 935 300 930 298 930 297 930 296 930 266 935 258 936 256 935 250 930 249 930 248 930 239 930 227 930 214 930 202 930 190 930 187 930 186 930 153 936 149 936 145 936 92 930 91 930 90 930 66 935 67 978 67 984 696 987 699 976 695 931 491 935 471 933 459 931 449 931"/></Shape>
-	    <String CONTENT="Ce que Panorme le bon marchant."
+	    <String CONTENT="Ce que Panorme le bon marchant,"
                     HPOS="66"
                     VPOS="930"
                     WIDTH="633"
@@ -365,7 +365,7 @@
                     WIDTH="633"
                     HEIGHT="58">
             <Shape><Polygon POINTS="276 978 275 978 260 984 256 986 254 984 248 979 247 979 245 979 244 979 127 986 126 986 124 986 79 979 77 979 76 979 75 979 67 983 69 1024 69 1030 245 1036 247 1036 300 1030 316 1029 329 1030 366 1035 368 1035 411 1030 425 1029 698 1029 700 1020 696 978 316 984 307 983 277 978 276 978"/></Shape>
-	    <String CONTENT="en ses escritz n a pas cele, quand"
+	    <String CONTENT="en ses escritz na pas cele, quand"
                     HPOS="67"
                     VPOS="978"
                     WIDTH="633"
@@ -382,7 +382,7 @@
                     WIDTH="632"
                     HEIGHT="53">
             <Shape><Polygon POINTS="70 1070 71 1082 97 1074 214 1079 240 1081 242 1081 243 1081 247 1079 260 1074 337 1078 378 1079 379 1079 380 1079 385 1077 392 1073 413 1077 431 1079 432 1079 661 1073 685 1079 686 1079 688 1079 689 1079 690 1079 701 1072 701 1067 698 1029 69 1029 70 1070"/></Shape>
-	    <String CONTENT="par elegance ceremonie, ou pour se"
+	    <String CONTENT="par elegance ceremonie, ou pour le"
                     HPOS="69"
                     VPOS="1029"
                     WIDTH="632"
@@ -399,7 +399,7 @@
                     WIDTH="633"
                     HEIGHT="62">
             <Shape><Polygon POINTS="636 1068 635 1068 633 1068 632 1068 612 1076 591 1068 590 1068 589 1068 588 1068 586 1068 586 1070 579 1077 557 1077 528 1068 527 1068 526 1068 525 1068 523 1068 523 1070 516 1077 509 1077 486 1077 470 1077 323 1070 322 1070 321 1070 320 1070 307 1077 277 1070 276 1070 275 1070 274 1070 245 1077 239 1078 234 1077 211 1072 210 1072 168 1077 158 1078 155 1077 143 1071 142 1071 140 1071 139 1071 124 1077 122 1078 66 1078 67 1116 67 1123 91 1130 92 1130 93 1130 126 1123 128 1123 138 1123 255 1130 256 1130 305 1121 311 1121 359 1121 375 1121 381 1128 381 1129 383 1129 384 1129 385 1129 489 1121 491 1121 509 1128 510 1128 511 1129 685 1129 685 1128 686 1128 688 1128 699 1120 699 1113 696 1077 646 1077 637 1068 636 1068"/></Shape>
-	    <String CONTENT="moins barbariene. il a ainsi escripti"
+	    <String CONTENT="moins barbariene, il a ainsi escript:"
                     HPOS="66"
                     VPOS="1068"
                     WIDTH="633"
@@ -416,7 +416,7 @@
                     WIDTH="624"
                     HEIGHT="59">
             <Shape><Polygon POINTS="575 1176 574 1176 512 1169 504 1176 500 1176 462 1169 455 1169 391 1177 391 1178 307 1178 306 1177 303 1177 297 1171 289 1171 229 1178 228 1178 66 1173 66 1168 65 1123 137 1123 138 1124 155 1134 180 1128 182 1128 214 1134 226 1125 226 1124 232 1124 232 1125 244 1134 256 1125 261 1121 265 1121 282 1125 316 1134 334 1134 344 1125 347 1123 350 1123 368 1126 402 1132 459 1126 476 1125 478 1125 513 1128 584 1131 596 1128 625 1119 630 1119 646 1131 674 1131 678 1129 681 1127 689 1171"/></Shape>
-	    <String CONTENT="Dicunt aliqui quod nuntu pape nõ sum"
+	    <String CONTENT="Dicunt aliqui quod nuntii pape nõ sunt"
                     HPOS="65"
                     VPOS="1119"
                     WIDTH="624"
@@ -433,38 +433,11 @@
                     WIDTH="619"
                     HEIGHT="66">
             <Shape><Polygon POINTS="682 1214 670 1223 668 1223 601 1227 599 1227 554 1216 541 1223 538 1223 496 1215 453 1227 452 1227 345 1229 344 1229 315 1223 308 1227 308 1229 306 1229 306 1230 210 1230 208 1229 207 1229 159 1216 71 1216 71 1209 70 1168 137 1168 270 1171 275 1167 310 1167 343 1171 365 1167 423 1167 444 1168 446 1167 465 1167 478 1166 501 1166 544 1169 562 1166 621 1166 642 1168 644 1166 675 1166 683 1164 689 1214"/></Shape>
-	    <String CONTENT="dequrati sed plumbati; sed die mbilomi."
+	    <String CONTENT="deaurati sed plumbati: sed die nihilomi-"
                     HPOS="70"
                     VPOS="1164"
                     WIDTH="619"
                     HEIGHT="66"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="445"
-                   VPOS="1221"
-                   WIDTH="264"
-                   HEIGHT="57"
-                   ID="eSc_textblock_00e01f40"
-                   TAGREFS="BT1182">
-          <Shape><Polygon POINTS="445 1221 445 1278 709 1278 709 1221"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_8451c987"
-                    TAGREFS="LT427"
-                    BASELINE="455 1269 694 1261" 
-                    HPOS="546"
-                    VPOS="1215"
-                    WIDTH="148"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="548 1284 585 1284 586 1284 588 1284 591 1281 607 1268 664 1268 669 1272 673 1274 674 1274 675 1274 677 1274 678 1274 694 1268 694 1261 690 1218 614 1224 610 1221 606 1218 606 1216 605 1216 604 1216 555 1215 554 1215 553 1215 552 1215 546 1220 548 1265"/></Shape>
-	    <String CONTENT="I nus"
-                    HPOS="546"
-                    VPOS="1215"
-                    WIDTH="148"
-                    HEIGHT="69"></String>
           </TextLine>
 
           
@@ -487,7 +460,7 @@
                     WIDTH="145"
                     HEIGHT="53">
             <Shape><Polygon POINTS="822 1128 829 1134 830 1156 830 1165 694 1171 685 1125 693 1119 695 1119 769 1118 780 1120 794 1121 806 1123"/></Shape>
-	    <String CONTENT="Danor."
+	    <String CONTENT="Panor."
                     HPOS="685"
                     VPOS="1118"
                     WIDTH="145"
@@ -504,11 +477,38 @@
                     WIDTH="148"
                     HEIGHT="65">
             <Shape><Polygon POINTS="688 1163 695 1161 831 1161 835 1197 835 1213 770 1215 748 1226 745 1226 721 1214 694 1214 687 1163"/></Shape>
-	    <String CONTENT="puper pr̃"
+	    <String CONTENT="super prĩ"
                     HPOS="687"
                     VPOS="1161"
                     WIDTH="148"
                     HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="445"
+                   VPOS="1221"
+                   WIDTH="264"
+                   HEIGHT="57"
+                   ID="eSc_textblock_00e01f40"
+                   TAGREFS="BT1182">
+          <Shape><Polygon POINTS="445 1221 445 1278 709 1278 709 1221"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_8451c987"
+                    TAGREFS="LT427"
+                    BASELINE="455 1269 694 1261" 
+                    HPOS="436"
+                    VPOS="1215"
+                    WIDTH="258"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="548 1284 585 1284 586 1284 588 1284 591 1281 607 1268 664 1268 669 1272 673 1274 674 1274 675 1274 677 1274 678 1274 694 1268 694 1261 690 1218 614 1224 610 1221 606 1218 606 1216 605 1216 604 1216 555 1215 554 1215 553 1215 552 1215 436 1220 455 1278"/></Shape>
+	    <String CONTENT="B 5 nus"
+                    HPOS="436"
+                    VPOS="1215"
+                    WIDTH="258"
+                    HEIGHT="69"></String>
           </TextLine>
 
           

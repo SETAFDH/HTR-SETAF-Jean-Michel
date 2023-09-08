@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1184" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1185" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1178" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1179" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1180" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1181" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/><OtherTag ID="BT1182" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1183" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="BT1178" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1179" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1180" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1181" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/><OtherTag ID="BT1182" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1183" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1184" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1185" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT427" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT428" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT429" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -42,7 +42,7 @@
                     WIDTH="645"
                     HEIGHT="64">
             <Shape><Polygon POINTS="827 76 815 74 803 74 790 74 778 74 766 74 753 74 741 74 728 74 716 74 704 74 691 74 679 74 667 74 654 74 642 74 630 74 625 74 611 76 605 74 593 74 580 74 568 74 555 74 543 74 531 75 527 75 523 78 510 75 506 75 494 75 481 76 480 76 470 80 452 76 444 76 432 77 421 77 410 82 287 83 273 81 271 81 259 81 247 81 234 82 222 82 192 87 186 93 187 130 187 138 429 138 429 136 431 136 437 133 446 129 474 133 488 134 489 134 490 134 491 134 492 133 500 128 516 132 525 134 526 134 527 134 528 134 530 134 532 132 539 127 569 132 581 133 583 133 596 130 632 124 663 130 669 130 670 130 680 129 737 122 829 127 831 114 829 76 827 76"/></Shape>
-	    <String CONTENT="baille leur ꝓpre habit. pretẽdans q̃l-"
+	    <String CONTENT="baille leur ꝓpre habit, pretẽdans q̃l-"
                     HPOS="186"
                     VPOS="74"
                     WIDTH="645"
@@ -59,7 +59,7 @@
                     WIDTH="641"
                     HEIGHT="71">
             <Shape><Polygon POINTS="633 119 621 120 619 120 599 124 576 128 565 125 553 122 547 122 543 122 538 127 534 129 527 127 516 123 510 123 497 123 485 123 473 124 460 124 448 124 422 130 408 133 375 132 284 128 275 129 271 129 256 136 254 136 252 136 235 132 234 132 233 132 189 138 191 177 191 187 277 188 279 188 298 183 322 178 336 182 347 186 348 186 349 186 405 180 457 175 473 177 494 182 495 182 496 182 497 182 497 181 504 177 507 172 591 171 599 174 612 178 614 178 615 178 616 178 641 172 644 171 646 172 654 177 656 177 657 177 658 177 694 171 722 176 724 176 768 167 777 166 780 167 800 174 801 174 803 174 804 174 830 165 830 161 826 117 672 125 654 122 641 119 633 119"/></Shape>
-	    <String CONTENT="que sainctete; leq̃l toutesfoys par a-"
+	    <String CONTENT="que sainctete: leq̃l toutesfoys par a-"
                     HPOS="189"
                     VPOS="117"
                     WIDTH="641"
@@ -178,7 +178,7 @@
                     WIDTH="638"
                     HEIGHT="69">
             <Shape><Polygon POINTS="794 440 736 450 731 450 727 450 696 443 695 443 694 443 693 443 693 444 684 451 683 451 677 451 597 445 596 445 595 445 594 445 594 446 585 454 585 455 523 455 522 455 492 448 491 448 490 448 407 457 345 451 344 451 343 451 321 460 305 452 303 452 302 452 238 462 210 455 208 455 207 455 206 455 205 455 197 460 200 502 200 507 394 509 395 509 429 502 431 502 438 502 637 503 638 503 640 503 670 496 672 496 673 496 700 501 701 501 703 501 704 501 710 494 711 493 833 491 835 486 832 448 795 440 794 440"/></Shape>
-	    <String CONTENT="de gringuenauldes. Marchans de"
+	    <String CONTENT="de gringuenauldes, Marchans de"
                     HPOS="197"
                     VPOS="440"
                     WIDTH="638"
@@ -195,7 +195,7 @@
                     WIDTH="639"
                     HEIGHT="60">
             <Shape><Polygon POINTS="198 547 198 556 835 540 836 531 832 496 197 509 198 547"/></Shape>
-	    <String CONTENT="leurs bõnes oeuures ⁊ merites. com"
+	    <String CONTENT="leurs bõnes oeuures ⁊ merites: com"
                     HPOS="197"
                     VPOS="496"
                     WIDTH="639"
@@ -280,7 +280,7 @@
                     WIDTH="612"
                     HEIGHT="68">
             <Shape><Polygon POINTS="203 782 203 791 812 771 814 766 811 730 720 723 719 723 669 733 626 725 625 725 575 734 457 731 455 731 454 731 434 739 390 731 389 731 231 744 212 736 211 736 210 736 208 736 207 736 207 738 202 741 203 782"/></Shape>
-	    <String CONTENT="pcres. ont du tout paradis gaigne."
+	    <String CONTENT="peres, ont du tout paradis gaigne."
                     HPOS="202"
                     VPOS="723"
                     WIDTH="612"
@@ -348,7 +348,7 @@
                     WIDTH="636"
                     HEIGHT="65">
             <Shape><Polygon POINTS="738 907 691 915 684 909 683 909 682 909 680 909 633 916 594 910 593 910 591 910 576 916 544 912 539 912 509 919 500 913 497 914 489 914 468 920 450 914 448 915 442 915 427 923 342 924 307 919 301 919 292 919 264 925 231 921 227 921 214 921 202 928 203 967 203 972 838 958 838 951 836 913 740 907 738 907"/></Shape>
-	    <String CONTENT="la grace ⁊ misericorde du Scigneur"
+	    <String CONTENT="la grace ⁊ misericorde du Seigneur"
                     HPOS="202"
                     VPOS="907"
                     WIDTH="636"
@@ -365,7 +365,7 @@
                     WIDTH="637"
                     HEIGHT="66">
             <Shape><Polygon POINTS="722 955 710 955 706 955 679 960 668 962 658 961 638 956 636 957 623 957 616 957 596 962 581 965 568 962 548 958 537 960 534 960 530 962 523 966 515 963 504 960 500 960 488 961 486 961 475 963 452 968 426 965 410 962 408 962 391 965 358 971 347 966 343 963 339 965 333 965 327 966 297 972 203 968 206 1014 206 1021 295 1016 316 1019 331 1021 332 1021 333 1021 334 1021 337 1019 342 1015 354 1018 373 1021 374 1021 408 1016 432 1013 497 1013 627 1014 628 1014 630 1014 631 1014 631 1013 636 1008 638 1007 644 1008 669 1013 670 1013 672 1013 673 1013 683 1007 685 1005 699 1005 747 1009 748 1009 749 1009 751 1009 756 1004 758 1003 763 1004 795 1009 796 1009 838 1000 840 995 836 958 737 960 736 960 728 955 722 955"/></Shape>
-	    <String CONTENT="Ticu; laq̃lle ne se cõqueste point par"
+	    <String CONTENT="Dieu: laq̃lle ne se cõqueste point par"
                     HPOS="203"
                     VPOS="955"
                     WIDTH="637"
@@ -382,7 +382,7 @@
                     WIDTH="637"
                     HEIGHT="58">
             <Shape><Polygon POINTS="247 1013 203 1020 205 1058 205 1063 495 1062 584 1058 753 1050 838 1053 840 1042 837 1005 552 1005 551 1005 549 1005 548 1005 541 1012 418 1009 417 1009 297 1018 252 1013 247 1013"/></Shape>
-	    <String CONTENT="ocuure. ou merite, autremẽt grace ne"
+	    <String CONTENT="oeuure, ou merite, autremẽt grace ne"
                     HPOS="203"
                     VPOS="1005"
                     WIDTH="637"
@@ -450,7 +450,7 @@
                     WIDTH="636"
                     HEIGHT="76">
             <Shape><Polygon POINTS="208 1245 208 1257 298 1252 307 1256 316 1260 317 1260 318 1260 354 1255 368 1252 376 1253 397 1257 399 1257 400 1257 401 1257 407 1252 410 1251 418 1252 448 1256 449 1256 450 1256 452 1256 458 1251 464 1247 486 1250 511 1252 512 1252 531 1248 546 1245 553 1247 563 1252 564 1252 565 1252 630 1251 668 1244 684 1240 842 1237 842 1226 840 1192 798 1184 796 1184 753 1193 686 1188 685 1188 684 1188 669 1195 668 1197 623 1197 615 1197 588 1190 586 1190 585 1190 536 1199 517 1193 516 1193 515 1193 513 1193 494 1200 492 1200 460 1195 459 1195 307 1205 287 1207 282 1207 249 1200 248 1200 206 1208 208 1245"/></Shape>
-	    <String CONTENT="suitieux, ces gros truãs ⁊ miserables"
+	    <String CONTENT="stitieux, ces gros truãs ⁊ miserables"
                     HPOS="206"
                     VPOS="1184"
                     WIDTH="636"
@@ -477,7 +477,7 @@
                     WIDTH="166"
                     HEIGHT="67">
             <Shape><Polygon POINTS="835 1276 826 1245 778 1241 758 1230 757 1230 756 1230 754 1230 753 1230 753 1231 745 1241 742 1241 724 1241 720 1240 710 1231 709 1231 707 1231 706 1231 674 1236 675 1279 677 1297 695 1289 719 1294 725 1295 726 1295 727 1295 731 1294 743 1289 838 1289 840 1277 838 1274 835 1276"/></Shape>
-	    <String CONTENT="uentres."
+	    <String CONTENT="uentres,"
                     HPOS="674"
                     VPOS="1230"
                     WIDTH="166"
