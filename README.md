@@ -1,5 +1,6 @@
 # HTR-SETAF-Jean-Michel
-Données HTR pour le projet SETAF
+
+Ce dépôt contient les ouvrages publiés par l'imprimeur Jean Michel. La liste des exemplaires présents dans ce dépôt se trouve dans un tableau.csv.
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
@@ -7,7 +8,6 @@ Données HTR pour le projet SETAF
 ## Projet SETAF
 
 GitHub du projet : https://github.com/SETAFDH 
-
 Site du projet : https://www.unige.ch/setaf
 
 
@@ -18,7 +18,7 @@ Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : 2
 
 ## Données HTR
 
-Les données se trouvent au chemin ‘./data//.xml‘. Elles sont au format ALTO et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont produites à l'aide de l'interface eScriptorium et sont cataloguées sur HTR-United (https://htr-united.github.io). Les fichiers ALTO sont corrigés manuellement : le côntrole de la segmentation est en cours et la transcription issue de l'HTR sera bientôt corrigée. 
+Les données se trouvent au chemin ‘./data//.xml‘. Elles sont au format ALTO et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont produites à l'aide de l'interface eScriptorium et sont cataloguées sur HTR-United (https://htr-united.github.io). Les fichiers ALTO sont corrigés manuellement : le côntrole de la segmentation et de la transcription issue de l'HTR sont en cours.
 
 
 ## Infrastructure
