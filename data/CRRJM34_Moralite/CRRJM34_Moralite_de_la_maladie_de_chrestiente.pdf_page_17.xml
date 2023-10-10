@@ -494,7 +494,7 @@
                     WIDTH="139"
                     HEIGHT="75">
             <Shape><Polygon POINTS="729 1308 729 1330 867 1318 867 1306 855 1273 759 1255 758 1255 757 1255 755 1255 728 1273 729 1308"/></Shape>
-	    <String CONTENT="Et en-"
+	    <String CONTENT="Et en¬"
                     HPOS="728"
                     VPOS="1255"
                     WIDTH="139"

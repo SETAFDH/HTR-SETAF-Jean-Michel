@@ -314,7 +314,7 @@
                     WIDTH="480"
                     HEIGHT="59">
             <Shape><Polygon POINTS="140 866 140 876 619 867 619 861 617 824 598 817 597 817 596 817 595 817 593 817 586 823 514 818 512 818 478 824 476 824 473 824 451 818 450 818 449 818 448 818 446 818 436 824 435 826 139 826 140 866"/></Shape>
-	    <String CONTENT="Aueugle suis mal fortune-"
+	    <String CONTENT="Aueugle suis mal fortune¬"
                     HPOS="139"
                     VPOS="817"
                     WIDTH="480"

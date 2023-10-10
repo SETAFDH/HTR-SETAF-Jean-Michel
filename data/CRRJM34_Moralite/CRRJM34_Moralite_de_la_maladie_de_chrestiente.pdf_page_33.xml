@@ -494,7 +494,7 @@
                     WIDTH="143"
                     HEIGHT="70">
             <Shape><Polygon POINTS="860 1316 853 1300 838 1300 838 1298 796 1279 795 1279 794 1279 741 1284 733 1307 734 1320 734 1349 829 1343 875 1349 876 1316 875 1315 872 1315"/></Shape>
-	    <String CONTENT="Le me-"
+	    <String CONTENT="Le me¬"
                     HPOS="733"
                     VPOS="1279"
                     WIDTH="143"

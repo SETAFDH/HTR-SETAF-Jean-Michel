@@ -76,7 +76,7 @@
                     WIDTH="640"
                     HEIGHT="59">
             <Shape><Polygon POINTS="705 188 691 186 688 186 680 186 670 190 659 193 636 190 607 186 601 186 593 186 586 191 581 194 433 194 429 193 422 187 416 187 404 187 401 187 341 192 311 187 305 187 296 187 273 194 239 188 231 188 227 188 217 196 197 188 193 188 189 188 174 196 164 188 156 188 144 188 132 188 119 188 111 188 70 197 71 235 72 245 96 239 195 244 211 244 212 244 709 235 710 232 707 190 705 188"/></Shape>
-	    <String CONTENT="petitz la uendent ouuree en chãdel-"
+	    <String CONTENT="petitz la uendent ouuree en chãdel¬"
                     HPOS="70"
                     VPOS="186"
                     WIDTH="640"
@@ -161,7 +161,7 @@
                     WIDTH="632"
                     HEIGHT="55">
             <Shape><Polygon POINTS="703 425 649 418 648 418 647 418 622 427 546 427 527 418 526 418 525 418 479 427 428 427 421 419 420 419 418 419 417 419 368 425 358 418 357 418 355 418 354 418 305 424 270 418 269 418 268 418 253 425 222 418 221 418 219 418 218 418 186 425 109 418 108 418 107 418 106 418 106 419 98 427 72 427 72 465 72 473 704 471 704 465 704 429 703 425"/></Shape>
-	    <String CONTENT="officiaulx, seelleurs, copistes, datai-"
+	    <String CONTENT="officiaulx, seelleurs, copistes, datai¬"
                     HPOS="72"
                     VPOS="418"
                     WIDTH="632"
@@ -297,7 +297,7 @@
                     WIDTH="637"
                     HEIGHT="56">
             <Shape><Polygon POINTS="698 792 685 792 673 792 661 792 648 792 636 792 623 792 611 792 609 792 67 798 69 839 69 847 703 840 704 834 700 791 698 791 698 792"/></Shape>
-	    <String CONTENT="Que sur la terre on ne uit tel al-"
+	    <String CONTENT="Que sur la terre on ne uit tel al¬"
                     HPOS="67"
                     VPOS="791"
                     WIDTH="637"
@@ -433,7 +433,7 @@
                     WIDTH="619"
                     HEIGHT="66">
             <Shape><Polygon POINTS="682 1214 670 1223 668 1223 601 1227 599 1227 554 1216 541 1223 538 1223 496 1215 453 1227 452 1227 345 1229 344 1229 315 1223 308 1227 308 1229 306 1229 306 1230 210 1230 208 1229 207 1229 159 1216 71 1216 71 1209 70 1168 137 1168 270 1171 275 1167 310 1167 343 1171 365 1167 423 1167 444 1168 446 1167 465 1167 478 1166 501 1166 544 1169 562 1166 621 1166 642 1168 644 1166 675 1166 683 1164 689 1214"/></Shape>
-	    <String CONTENT="deaurati sed plumbati: sed die nihilomi-"
+	    <String CONTENT="deaurati sed plumbati: sed die nihilomi¬"
                     HPOS="70"
                     VPOS="1164"
                     WIDTH="619"
