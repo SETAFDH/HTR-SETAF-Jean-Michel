@@ -62,7 +62,7 @@ characters:
   - /
   - z
   - ⁊
-  - '-'
+  - ¬
   - ':'
   - C
   - D
@@ -105,17 +105,18 @@ characters:
   - ꝓ
   -  
   - ꝑ
-  - ᑕ
   - V
+  - ᑕ
   - Y
+  - '-'
   - ;
   - ᗞ
   - J
   - k
   - ̀
-  - ꝯ
   - Z
   - v
+  - ꝯ
   mode: NFD
 description: Data for the SETAF project, 16th-century French prints in Gothic characters.
 format: Alto-XML
@@ -144,7 +145,7 @@ url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
 - count: 286256
   metric: characters
-- count: 450
+- count: 404
   metric: files
 - count: 11778
   metric: lines
