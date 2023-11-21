@@ -1,6 +1,7 @@
 # HTR-SETAF-Jean-Michel
 
-Ce dépôt contient les ouvrages publiés par l'imprimeur Jean Michel. La liste des exemplaires présents dans ce dépôt se trouve dans un tableau.csv.
+Ce dépôt contient les ouvrages publiés par l'imprimeur Jean Michel.
+La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
@@ -21,6 +22,7 @@ Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : 2
 
 Les données se trouvent au chemin ‘./data//.xml‘. Elles sont au format ALTO et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont produites à l'aide de l'interface eScriptorium et sont cataloguées sur HTR-United (https://htr-united.github.io). Les fichiers ALTO sont corrigés manuellement : le côntrole de la segmentation et de la transcription issue de l'HTR sont en cours.
 
+Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques : https://hal.science/hal-04281804
 
 ## Infrastructure
 
@@ -36,7 +38,7 @@ Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et
 
 ## Citer le dépôt
 
-- Version `0.9`: Sonia Solfrini, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Simon Gabay et Daniela Solfaroli Camillocci _Données HTR et segmentation des imprimés de Jean Michel (projet SETAF)_, version `0.9`, Genève, université de Genève, 2023, https://github.com/SETAFDH/HTR-SETAF-Jean-Michel.
+- Version `0.9`: Sonia Solfrini, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Simon Gabay et Daniela Solfaroli Camillocci, _Données HTR et segmentation des imprimés de Jean Michel (projet SETAF)_, version `0.9`, Genève, université de Genève, 2023, https://github.com/SETAFDH/HTR-SETAF-Jean-Michel.
 
 ```bibtex
 @misc{solfrini_MichelSETAF_2023,
