@@ -1,8 +1,6 @@
 # HTR-SETAF-Jean-Michel
 
-Ce dépôt contient les ouvrages publiés par l'imprimeur Jean Michel.
-
-La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
+Ce dépôt contient les ouvrages publiés par l'imprimeur Jean Michel. La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
