@@ -1,6 +1,6 @@
 # HTR-SETAF-Jean-Michel
 
-Ce dépôt contient comprend les données OCR des ouvrages publiés par Jean Michel, maître-imprimeur à Genève de 1538 à 1544 qui rachète le matériel typographique de Pierre de Vingle. Les textes sont des imprimés français du XVIe siècle en caractères gothiques et la liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
+Ce dépôt contient les données OCR des ouvrages publiés par Jean Michel, maître-imprimeur à Genève de 1538 à 1544 qui rachète le matériel typographique de Pierre de Vingle. Les textes sont des imprimés français du XVIe siècle en caractères gothiques et la liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
