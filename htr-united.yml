@@ -129,8 +129,8 @@ license:
 - name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
-project-name: SETAF project
-project-website: https://www.unige.ch/setaf/
+project-name: SETAF project and FoNDUE
+project-website: https://www.unige.ch/setaf and https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - iso: Latn
@@ -139,11 +139,7 @@ time:
   notAfter: '1600'
   notBefore: '1500'
 title: HTR-SETAF-Jean-Michel
-transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
-  Our transcription guidelines follow a graphematic approach, without regularisation.
-  We keep the original punctuation and abbreviations. A detailed presentation (about
-  30 pages) of the rules we established for the transcriptions will be available on
-  our website.
+transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io). Our transcription guidelines follow a graphematic approach, without regularisation. We keep the original punctuation and abbreviations. A detailed presentation of the rules we established for the transcriptions is available here: https://hal.science/hal-04281804.
 url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
 - count: 286256
