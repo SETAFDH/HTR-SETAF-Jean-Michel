@@ -45,13 +45,36 @@
                     WC="0.9999999403953552"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="2125"
+                   VPOS="652"
+                   WIDTH="1333"
+                   HEIGHT="240"
+                   ID="eSc_textblock_fc3f1c6a"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="2125 652 2125 892 3458 892 3458 652"/></Shape>
+          <TextLine ID="eSc_line_f3368cc7"
+                    TAGREFS="LT10"
+                    BASELINE="2196 850 3423 838" 
+                    HPOS="2192"
+                    VPOS="664"
+                    WIDTH="1231"
+                    HEIGHT="250">
+            <Shape><Polygon POINTS="3277 700 3202 676 3182 676 3142 676 3103 676 3083 672 3047 688 3024 672 2984 672 2944 672 2913 672 2731 700 2624 668 2588 668 2493 708 2398 708 2335 664 2331 664 2327 664 2323 664 2192 684 2196 850 2196 890 2596 914 2600 914 2604 914 2655 886 3348 906 3352 906 3356 906 3423 878 3423 838 3415 720 3400 700"/></Shape>
+            <String CONTENT="De Inobedience."
+                    HPOS="2192"
+                    VPOS="664"
+                    WIDTH="1231"
+                    HEIGHT="250"
+                    WC="0.9979839007059733"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="1411"
                    VPOS="906"
                    WIDTH="2645"
                    HEIGHT="4562"
                    ID="eSc_textblock_93574b11"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="1452 906 1411 5468 3939 5468 4056 906"/></Shape>
+          <Shape><Polygon POINTS="1452 906 1411 5468 3987 5447 4056 906"/></Shape>
           <TextLine ID="eSc_line_a80d875f"
                     TAGREFS="LT8"
                     BASELINE="1500 1040 4005 1052" 
@@ -443,27 +466,27 @@
                     WC="0.9927224312957964"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="2125"
-                   VPOS="652"
-                   WIDTH="1333"
-                   HEIGHT="240"
-                   ID="eSc_textblock_fc3f1c6a"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="2125 652 2125 892 3458 892 3458 652"/></Shape>
-          <TextLine ID="eSc_line_f3368cc7"
-                    TAGREFS="LT10"
-                    BASELINE="2196 850 3423 838" 
-                    HPOS="2192"
-                    VPOS="664"
-                    WIDTH="1231"
-                    HEIGHT="250">
-            <Shape><Polygon POINTS="3277 700 3202 676 3182 676 3142 676 3103 676 3083 672 3047 688 3024 672 2984 672 2944 672 2913 672 2731 700 2624 668 2588 668 2493 708 2398 708 2335 664 2331 664 2327 664 2323 664 2192 684 2196 850 2196 890 2596 914 2600 914 2604 914 2655 886 3348 906 3352 906 3356 906 3423 878 3423 838 3415 720 3400 700"/></Shape>
-            <String CONTENT="De Inobedience."
-                    HPOS="2192"
-                    VPOS="664"
-                    WIDTH="1231"
-                    HEIGHT="250"
-                    WC="0.9979839007059733"></String>
+        <TextBlock HPOS="3445"
+                   VPOS="5448"
+                   WIDTH="481"
+                   HEIGHT="192"
+                   ID="eSc_textblock_3343dd06"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="3445 5448 3445 5640 3926 5640 3926 5448"/></Shape>
+          <TextLine ID="eSc_line_d3ea7e75"
+                    TAGREFS="LT8"
+                    BASELINE="3487 5575 3871 5563" 
+                    HPOS="3479"
+                    VPOS="5425"
+                    WIDTH="392"
+                    HEIGHT="301">
+            <Shape><Polygon POINTS="3487 5575 3491 5726 3602 5726 3602 5722 3605 5722 3609 5722 3744 5635 3839 5654 3843 5654 3847 5654 3851 5654 3871 5639 3871 5563 3859 5425 3724 5453 3522 5429 3518 5429 3514 5429 3510 5429 3479 5445 3487 5575"/></Shape>
+            <String CONTENT="feras"
+                    HPOS="3479"
+                    VPOS="5425"
+                    WIDTH="392"
+                    HEIGHT="301"
+                    WC="0.9986752033233642"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="923"
@@ -486,29 +509,6 @@
                     WIDTH="522"
                     HEIGHT="7"
                     ></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="3445"
-                   VPOS="5448"
-                   WIDTH="481"
-                   HEIGHT="192"
-                   ID="eSc_textblock_3343dd06"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="3445 5448 3445 5640 3926 5640 3926 5448"/></Shape>
-          <TextLine ID="eSc_line_d3ea7e75"
-                    TAGREFS="LT8"
-                    BASELINE="3487 5575 3871 5563" 
-                    HPOS="3479"
-                    VPOS="5425"
-                    WIDTH="392"
-                    HEIGHT="301">
-            <Shape><Polygon POINTS="3487 5575 3491 5726 3602 5726 3602 5722 3605 5722 3609 5722 3744 5635 3839 5654 3843 5654 3847 5654 3851 5654 3871 5639 3871 5563 3859 5425 3724 5453 3522 5429 3518 5429 3514 5429 3510 5429 3479 5445 3487 5575"/></Shape>
-            <String CONTENT="feras"
-                    HPOS="3479"
-                    VPOS="5425"
-                    WIDTH="392"
-                    HEIGHT="301"
-                    WC="0.9986752033233642"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

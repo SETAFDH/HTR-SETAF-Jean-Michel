@@ -534,31 +534,32 @@
           <Shape><Polygon POINTS="1081 2967 1081 3311 1534 3311 1534 2967"/></Shape>
           <TextLine ID="eSc_line_2b796020"
                     TAGREFS="LT8"
-                    BASELINE="1143 3070 1514 3091" 
+                    BASELINE="1143 3070 1500 3074" 
                     HPOS="1143"
                     VPOS="3070"
-                    WIDTH="371"
-                    HEIGHT="21">
+                    WIDTH="357"
+                    HEIGHT="4">
             <String CONTENT=""
                     HPOS="1143"
                     VPOS="3070"
-                    WIDTH="371"
-                    HEIGHT="21"
+                    WIDTH="357"
+                    HEIGHT="4"
                     ></String>
           </TextLine>
-          <TextLine ID="eSc_line_14fd7014"
+          <TextLine ID="eSc_line_eb465247"
                     TAGREFS="LT8"
-                    BASELINE="1156 3250 1396 3249" 
-                    HPOS="1156"
-                    VPOS="3249"
-                    WIDTH="240"
-                    HEIGHT="1">
-            <String CONTENT=""
-                    HPOS="1156"
-                    VPOS="3249"
-                    WIDTH="240"
-                    HEIGHT="1"
-                    ></String>
+                    BASELINE="1150 3263 1390 3235" 
+                    HPOS="1129"
+                    VPOS="3140"
+                    WIDTH="255"
+                    HEIGHT="166">
+            <Shape><Polygon POINTS="1146 3258 1152 3306 1384 3282 1384 3229 1366 3140 1129 3157 1146 3258"/></Shape>
+            <String CONTENT="142."
+                    HPOS="1129"
+                    VPOS="3140"
+                    WIDTH="255"
+                    HEIGHT="166"
+                    WC="0.9986927360296249"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1040"
