@@ -61,17 +61,17 @@ characters:
   - ','
   - f
   - q
-  - g
   - ̃
+  - g
   - y
   - b
   - h
   - /
-  - z
   - ⁊
+  - z
   - ¬
-  - ':'
   - C
+  - ':'
   - D
   - x
   - E
@@ -90,28 +90,28 @@ characters:
   - N
   - T
   - '4'
-  - O
   - ͥ
-  - B
-  - R
+  - O
   - ꝰ
-  - H
-  - '6'
+  - R
+  - B
   - '5'
+  - '6'
+  - H
   - ͬ
   - G
-  - '8'
-  - F
   - (
+  - '8'
   - )
+  - F
   - '0'
+  - '7'
   - '9'
   - ¶
-  - '7'
   - ◊
   - ꝓ
-  -  
   - ꝑ
+  -  
   - ᑕ
   - V
   - '-'
@@ -119,10 +119,10 @@ characters:
   - ;
   - ᗞ
   - J
+  - Z
   - k
   - ̀
   - ꝯ
-  - Z
   - v
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel/blob/main/CITATION.cff
@@ -157,11 +157,11 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
-- count: 286256
+- count: 301747
   metric: characters
-- count: 404
+- count: 424
   metric: files
-- count: 11778
+- count: 12370
   metric: lines
-- count: 1365
+- count: 1481
   metric: regions
