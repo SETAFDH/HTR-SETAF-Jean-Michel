@@ -89,8 +89,8 @@ characters:
   - '3'
   - '?'
   - ͬ
-  - N
   - '4'
+  - N
   - T
   - U
   - R
@@ -103,8 +103,8 @@ characters:
   - H
   - ꝓ
   - '8'
-  - ¶
   - G
+  - ¶
   - '0'
   - ꝑ
   - '7'
@@ -114,6 +114,7 @@ characters:
   - ꝯ
   -  
   - ð
+  - ᗞ
   - ᑕ
   - V
   - '-'
@@ -121,7 +122,6 @@ characters:
   - K
   - k
   - ;
-  - ᗞ
   - J
   - "'"
   - ̀
@@ -160,11 +160,11 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
-- count: 507421
+- count: 507488
   metric: characters
 - count: 667
   metric: files
 - count: 19807
   metric: lines
-- count: 2801
+- count: 2798
   metric: regions
