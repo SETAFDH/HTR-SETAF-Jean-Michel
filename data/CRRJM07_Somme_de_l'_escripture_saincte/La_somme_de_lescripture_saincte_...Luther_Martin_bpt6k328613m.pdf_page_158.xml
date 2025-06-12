@@ -22,13 +22,13 @@
                   VPOS="0"
                   WIDTH="4267"
                   HEIGHT="6358">
-        <TextBlock HPOS="1610"
-                   VPOS="693"
-                   WIDTH="316"
-                   HEIGHT="199"
+        <TextBlock HPOS="1580"
+                   VPOS="643"
+                   WIDTH="346"
+                   HEIGHT="249"
                    ID="eSc_textblock_2b82968f"
                    TAGREFS="BT15">
-          <Shape><Polygon POINTS="1610 693 1610 892 1926 892 1926 693"/></Shape>
+          <Shape><Polygon POINTS="1580 643 1610 892 1926 892 1926 693"/></Shape>
           <TextLine ID="eSc_line_97d159a3"
                     TAGREFS="LT8"
                     BASELINE="1642 826 1860 826" 
@@ -45,13 +45,36 @@
                     WC="0.9999922513961792"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="2538"
+                   VPOS="659"
+                   WIDTH="907"
+                   HEIGHT="219"
+                   ID="eSc_textblock_5039acca"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="2548 659 2538 878 3445 878 3445 659"/></Shape>
+          <TextLine ID="eSc_line_850cf887"
+                    TAGREFS="LT10"
+                    BASELINE="2582 823 3394 823" 
+                    HPOS="2582"
+                    VPOS="692"
+                    WIDTH="812"
+                    HEIGHT="198">
+            <Shape><Polygon POINTS="3359 692 3334 692 3302 706 3023 692 3005 692 2970 692 2935 692 2900 692 2864 692 2843 692 2772 706 2673 692 2652 692 2617 692 2606 692 2582 702 2582 823 2582 868 2613 886 2617 886 2620 886 2744 861 2786 883 2790 883 2794 883 2797 883 2801 883 2801 879 2825 858 3034 858 3122 886 3126 886 3129 890 3338 890 3338 886 3341 886 3394 854 3394 823 3394 734 3359 692"/></Shape>
+            <String CONTENT="Des moines."
+                    HPOS="2582"
+                    VPOS="692"
+                    WIDTH="812"
+                    HEIGHT="198"
+                    WC="0.999936889518391"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="1810"
                    VPOS="878"
-                   WIDTH="2233"
+                   WIDTH="2273"
                    HEIGHT="3993"
                    ID="eSc_textblock_685c230d"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="1810 885 1837 4871 4043 4829 4043 878"/></Shape>
+          <Shape><Polygon POINTS="1810 885 1817 4871 4083 4839 4043 878"/></Shape>
           <TextLine ID="eSc_line_eaa25fd9"
                     TAGREFS="LT8"
                     BASELINE="1872 1013 3140 1003 3987 1017" 
@@ -443,52 +466,6 @@
                     WC="0.9998291425215893"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="2538"
-                   VPOS="659"
-                   WIDTH="907"
-                   HEIGHT="219"
-                   ID="eSc_textblock_5039acca"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="2538 659 2538 878 3445 878 3445 659"/></Shape>
-          <TextLine ID="eSc_line_850cf887"
-                    TAGREFS="LT10"
-                    BASELINE="2582 823 3394 823" 
-                    HPOS="2582"
-                    VPOS="692"
-                    WIDTH="812"
-                    HEIGHT="198">
-            <Shape><Polygon POINTS="3359 692 3334 692 3302 706 3023 692 3005 692 2970 692 2935 692 2900 692 2864 692 2843 692 2772 706 2673 692 2652 692 2617 692 2606 692 2582 702 2582 823 2582 868 2613 886 2617 886 2620 886 2744 861 2786 883 2790 883 2794 883 2797 883 2801 883 2801 879 2825 858 3034 858 3122 886 3126 886 3129 890 3338 890 3338 886 3341 886 3394 854 3394 823 3394 734 3359 692"/></Shape>
-            <String CONTENT="Des moines."
-                    HPOS="2582"
-                    VPOS="692"
-                    WIDTH="812"
-                    HEIGHT="198"
-                    WC="0.999936889518391"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1356"
-                   VPOS="3737"
-                   WIDTH="543"
-                   HEIGHT="220"
-                   ID="eSc_textblock_a5ab6c98"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="1356 3737 1356 3957 1899 3957 1899 3737"/></Shape>
-          <TextLine ID="eSc_line_ed5c0ef0"
-                    TAGREFS="LT8"
-                    BASELINE="1427 3885 1864 3886" 
-                    HPOS="1423"
-                    VPOS="3772"
-                    WIDTH="442"
-                    HEIGHT="179">
-            <Shape><Polygon POINTS="1423 3941 1427 3885 1427 3772 1865 3772 1864 3951"/></Shape>
-            <String CONTENT="Luce.18."
-                    HPOS="1423"
-                    VPOS="3772"
-                    WIDTH="442"
-                    HEIGHT="179"
-                    WC="0.9991800338029861"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="3603"
                    VPOS="4829"
                    WIDTH="364"
@@ -510,6 +487,29 @@
                     WIDTH="261"
                     HEIGHT="212"
                     WC="0.9999954700469971"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1326"
+                   VPOS="3707"
+                   WIDTH="573"
+                   HEIGHT="250"
+                   ID="eSc_textblock_a5ab6c98"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="1326 3707 1356 3957 1899 3957 1899 3737"/></Shape>
+          <TextLine ID="eSc_line_ed5c0ef0"
+                    TAGREFS="LT8"
+                    BASELINE="1427 3885 1864 3886" 
+                    HPOS="1423"
+                    VPOS="3772"
+                    WIDTH="442"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="1423 3941 1427 3885 1427 3772 1865 3772 1864 3951"/></Shape>
+            <String CONTENT="Luce.18."
+                    HPOS="1423"
+                    VPOS="3772"
+                    WIDTH="442"
+                    HEIGHT="179"
+                    WC="0.9991800338029861"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1375"
