@@ -45,6 +45,29 @@
                     WC="0.9999998807907104"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="2294"
+                   VPOS="639"
+                   WIDTH="999"
+                   HEIGHT="263"
+                   ID="eSc_textblock_f29f0411"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="2294 639 2294 902 3293 902 3293 639"/></Shape>
+          <TextLine ID="eSc_line_4cb9efb9"
+                    TAGREFS="LT10"
+                    BASELINE="2342 826 3262 826" 
+                    HPOS="2342"
+                    VPOS="658"
+                    WIDTH="920"
+                    HEIGHT="245">
+            <Shape><Polygon POINTS="3226 698 3186 674 3146 670 3105 670 3081 670 3017 682 2997 670 2985 670 2945 666 2937 666 2904 686 2800 686 2776 662 2744 662 2720 662 2619 682 2551 658 2543 658 2503 658 2483 658 2342 666 2342 826 2342 871 2599 903 2603 903 3262 871 3262 826 3242 710 3226 698"/></Shape>
+            <String CONTENT="De la mort."
+                    HPOS="2342"
+                    VPOS="658"
+                    WIDTH="920"
+                    HEIGHT="245"
+                    WC="0.9994607947089456"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="1310"
                    VPOS="876"
                    WIDTH="2712"
@@ -443,52 +466,6 @@
                     WC="0.9850242750064747"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="796"
-                   VPOS="1486"
-                   WIDTH="559"
-                   HEIGHT="288"
-                   ID="eSc_textblock_c2478415"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="796 1486 796 1774 1355 1774 1355 1486"/></Shape>
-          <TextLine ID="eSc_line_dbc53f75"
-                    TAGREFS="LT8"
-                    BASELINE="867 1657 1317 1670" 
-                    HPOS="863"
-                    VPOS="1525"
-                    WIDTH="454"
-                    HEIGHT="289">
-            <Shape><Polygon POINTS="1149 1525 1108 1529 1068 1529 1028 1533 988 1533 948 1537 908 1537 867 1593 867 1657 863 1766 1012 1814 1016 1814 1020 1814 1313 1770 1317 1670 1317 1557 1225 1557 1185 1525 1149 1525"/></Shape>
-            <String CONTENT="1.Ieh.2."
-                    HPOS="863"
-                    VPOS="1525"
-                    WIDTH="454"
-                    HEIGHT="289"
-                    WC="0.9544814676046371"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="2294"
-                   VPOS="639"
-                   WIDTH="999"
-                   HEIGHT="263"
-                   ID="eSc_textblock_f29f0411"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="2294 639 2294 902 3293 902 3293 639"/></Shape>
-          <TextLine ID="eSc_line_4cb9efb9"
-                    TAGREFS="LT10"
-                    BASELINE="2342 826 3262 826" 
-                    HPOS="2342"
-                    VPOS="658"
-                    WIDTH="920"
-                    HEIGHT="245">
-            <Shape><Polygon POINTS="3226 698 3186 674 3146 670 3105 670 3081 670 3017 682 2997 670 2985 670 2945 666 2937 666 2904 686 2800 686 2776 662 2744 662 2720 662 2619 682 2551 658 2543 658 2503 658 2483 658 2342 666 2342 826 2342 871 2599 903 2603 903 3262 871 3262 826 3242 710 3226 698"/></Shape>
-            <String CONTENT="De la mort."
-                    HPOS="2342"
-                    VPOS="658"
-                    WIDTH="920"
-                    HEIGHT="245"
-                    WC="0.9994607947089456"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="3243"
                    VPOS="5634"
                    WIDTH="643"
@@ -510,6 +487,29 @@
                     WIDTH="543"
                     HEIGHT="241"
                     WC="0.9997508790757921"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="796"
+                   VPOS="1486"
+                   WIDTH="559"
+                   HEIGHT="288"
+                   ID="eSc_textblock_c2478415"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="796 1486 796 1774 1355 1774 1355 1486"/></Shape>
+          <TextLine ID="eSc_line_dbc53f75"
+                    TAGREFS="LT8"
+                    BASELINE="867 1657 1317 1670" 
+                    HPOS="863"
+                    VPOS="1525"
+                    WIDTH="454"
+                    HEIGHT="289">
+            <Shape><Polygon POINTS="1149 1525 1108 1529 1068 1529 1028 1533 988 1533 948 1537 908 1537 867 1593 867 1657 863 1766 1012 1814 1016 1814 1020 1814 1313 1770 1317 1670 1317 1557 1225 1557 1185 1525 1149 1525"/></Shape>
+            <String CONTENT="1.Ieh.2."
+                    HPOS="863"
+                    VPOS="1525"
+                    WIDTH="454"
+                    HEIGHT="289"
+                    WC="0.9544814676046371"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
