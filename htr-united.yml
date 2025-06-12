@@ -160,11 +160,11 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
-- count: 507488
+- count: 507497
   metric: characters
 - count: 667
   metric: files
 - count: 19807
   metric: lines
-- count: 2798
+- count: 2796
   metric: regions
