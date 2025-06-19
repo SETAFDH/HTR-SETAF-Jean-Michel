@@ -37,12 +37,12 @@
                     WIDTH="249"
                     HEIGHT="178">
             <Shape><Polygon POINTS="1547 850 1508 842 1468 831 1428 823 1389 811 1349 815 1310 854 1310 945 1310 989 1559 981 1559 945 1559 854 1547 850"/></Shape>
-            <String CONTENT="O"
+            <String CONTENT="92"
                     HPOS="1310"
                     VPOS="811"
                     WIDTH="249"
                     HEIGHT="178"
-                    WC="1.0"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2074"
@@ -504,12 +504,12 @@
                     WIDTH="416"
                     HEIGHT="374">
             <Shape><Polygon POINTS="1022 1115 1016 1288 1111 1335 1117 1335 1123 1335 1426 1317 1432 1127 1432 985 1022 961 1022 1115"/></Shape>
-            <String CONTENT="2.Ieh.2"
+            <String CONTENT="2.Ieh.2."
                     HPOS="1016"
                     VPOS="961"
                     WIDTH="416"
                     HEIGHT="374"
-                    WC="0.8308420181274414"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
