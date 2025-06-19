@@ -37,12 +37,12 @@
                     WIDTH="147"
                     HEIGHT="229">
             <Shape><Polygon POINTS="2567 615 2533 615 2499 615 2430 622 2430 789 2430 844 2577 823 2577 789 2574 622 2567 615"/></Shape>
-            <String CONTENT="5"
+            <String CONTENT="55"
                     HPOS="2430"
                     VPOS="615"
                     WIDTH="147"
                     HEIGHT="229"
-                    WC="1.0"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1074"
@@ -60,12 +60,12 @@
                     WIDTH="780"
                     HEIGHT="188">
             <Shape><Polygon POINTS="1846 639 1812 629 1798 629 1695 649 1651 649 1627 629 1606 629 1572 629 1538 629 1504 629 1487 646 1391 646 1367 629 1333 629 1299 629 1275 639 1258 629 1230 629 1200 629 1186 639 1128 632 1128 758 1124 796 1155 817 1159 817 1162 817 1165 817 1901 813 1904 769 1904 656 1880 649"/></Shape>
-            <String CONTENT="Chapitre u."
+            <String CONTENT="Chapitre .u."
                     HPOS="1124"
                     VPOS="629"
                     WIDTH="780"
                     HEIGHT="188"
-                    WC="0.9857920137318698"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="308"
@@ -113,12 +113,12 @@
                     WIDTH="2034"
                     HEIGHT="188">
             <Shape><Polygon POINTS="389 1241 389 1292 516 1275 741 1292 745 1292 748 1292 796 1268 1029 1288 1032 1288 1224 1264 1391 1285 1394 1285 1398 1285 1401 1285 1436 1261 1606 1261 1962 1282 1965 1282 1969 1282 2034 1258 2061 1275 2065 1275 2068 1275 2071 1275 2236 1258 2266 1278 2270 1278 2273 1278 2277 1282 2393 1282 2393 1278 2396 1278 2400 1278 2420 1258 2420 1223 2410 1104 386 1111 389 1241"/></Shape>
-            <String CONTENT="faictz secheritiers, ⁊ toute sa gloire est"
+            <String CONTENT="faictz ses heritiers, ⁊ toute sa gloire est"
                     HPOS="386"
                     VPOS="1104"
                     WIDTH="2034"
                     HEIGHT="188"
-                    WC="0.9892593579632896"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_58b20013"
                     TAGREFS="LT8"

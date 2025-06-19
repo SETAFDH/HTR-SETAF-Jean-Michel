@@ -37,12 +37,12 @@
                     WIDTH="254"
                     HEIGHT="365">
             <Shape><Polygon POINTS="1586 939 1829 917 1835 884 1840 646 1608 574 1591 873 1586 939"/></Shape>
-            <String CONTENT="4c"
+            <String CONTENT="46"
                     HPOS="1586"
                     VPOS="574"
                     WIDTH="254"
                     HEIGHT="365"
-                    WC="0.9500791728496552"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2496"
@@ -60,12 +60,12 @@
                     WIDTH="763"
                     HEIGHT="206">
             <Shape><Polygon POINTS="3143 733 3109 733 3102 736 3095 729 3069 729 3032 729 2995 729 2962 729 2951 733 2549 722 2516 733 2520 865 2520 906 2627 928 2630 928 2785 906 2870 928 2874 928 2877 928 3054 902 3179 924 3183 924 3187 924 3191 924 3227 902 3268 920 3279 858 3272 751 3183 751 3165 733 3143 733"/></Shape>
-            <String CONTENT="De la foy."
+            <String CONTENT="De la Foy."
                     HPOS="2516"
                     VPOS="722"
                     WIDTH="763"
                     HEIGHT="206"
-                    WC="0.9999890565872193"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1767"
@@ -218,12 +218,12 @@
                     WIDTH="2156"
                     HEIGHT="205">
             <Shape><Polygon POINTS="1812 2453 1812 2514 3957 2514 3963 2447 3946 2326 3316 2337 3161 2309 3156 2309 3150 2309 3078 2337 2962 2309 2957 2309 2951 2309 2520 2337 1962 2309 1956 2309 1807 2337 1812 2453"/></Shape>
-            <String CONTENT="quil a faict/ ⁊ a garde tous mes cõmq̃"
+            <String CONTENT="quil a faict/ ⁊ a garde tous mes cõmã"
                     HPOS="1807"
                     VPOS="2309"
                     WIDTH="2156"
                     HEIGHT="205"
-                    WC="0.9980722558804047"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_40519ed1"
                     TAGREFS="LT8"

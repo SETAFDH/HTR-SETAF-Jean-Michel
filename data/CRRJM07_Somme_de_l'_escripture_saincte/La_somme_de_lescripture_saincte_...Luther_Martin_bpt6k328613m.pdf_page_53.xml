@@ -37,12 +37,12 @@
                     WIDTH="334"
                     HEIGHT="318">
             <Shape><Polygon POINTS="2436 712 2436 794 2630 820 2636 820 2641 820 2764 769 2764 707 2754 569 2430 502 2436 712"/></Shape>
-            <String CONTENT="449"
+            <String CONTENT="49"
                     HPOS="2430"
                     VPOS="502"
                     WIDTH="334"
                     HEIGHT="318"
-                    WC="0.9999269843101501"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="947"
