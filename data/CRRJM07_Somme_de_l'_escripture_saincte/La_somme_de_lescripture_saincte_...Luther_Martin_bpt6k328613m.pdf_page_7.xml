@@ -83,12 +83,12 @@
                     WIDTH="599"
                     HEIGHT="646">
             <Shape><Polygon POINTS="464 1520 954 1509 960 1418 985 883 859 874 780 874 386 877 420 1150 458 1349 464 1424"/></Shape>
-            <String CONTENT="S"
+            <String CONTENT="P"
                     HPOS="386"
                     VPOS="874"
                     WIDTH="599"
                     HEIGHT="646"
-                    WC="1.0"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="298"
@@ -151,12 +151,12 @@
                     WIDTH="1386"
                     HEIGHT="186">
             <Shape><Polygon POINTS="1056 1424 1056 1482 2442 1482 2442 1424 2442 1312 1056 1296 1056 1424"/></Shape>
-            <String CONTENT="ffin que chascũ puisse sca"
+            <String CONTENT="affin que chascũ puisse sca"
                     HPOS="1056"
                     VPOS="1296"
                     WIDTH="1386"
                     HEIGHT="186"
-                    WC="0.9911670243298566"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_1478c763"
                     TAGREFS="LT8"
@@ -527,12 +527,12 @@
                     WIDTH="377"
                     HEIGHT="196">
             <Shape><Polygon POINTS="2713 3399 2677 3395 2641 3388 2606 3384 2570 3381 2538 3374 2428 3370 2432 3488 2432 3566 2805 3541 2805 3477 2773 3406 2748 3402"/></Shape>
-            <String CONTENT="Rom."
+            <String CONTENT="Rom.◊."
                     HPOS="2428"
                     VPOS="3370"
                     WIDTH="377"
                     HEIGHT="196"
-                    WC="0.9804443120956421"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

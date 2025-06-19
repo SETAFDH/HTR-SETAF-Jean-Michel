@@ -37,12 +37,12 @@
                     WIDTH="160"
                     HEIGHT="337">
             <Shape><Polygon POINTS="2901 1003 2901 1062 3055 1092 3061 1003 3061 755 2901 755 2901 1003"/></Shape>
-            <String CONTENT="iz3"
+            <String CONTENT="13"
                     HPOS="2901"
                     VPOS="755"
                     WIDTH="160"
                     HEIGHT="337"
-                    WC="0.9073644876480103"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1188"

@@ -323,12 +323,12 @@
                     WIDTH="2016"
                     HEIGHT="224">
             <Shape><Polygon POINTS="416 3392 410 3429 1253 3472 1258 3472 1264 3472 1269 3472 1312 3445 1621 3445 1797 3482 1802 3482 2112 3461 2160 3493 2165 3493 2170 3493 2176 3498 2421 3498 2426 3434 2421 3296 416 3274 416 3392"/></Shape>
-            <String CONTENT="re grãdz ⁊ riches. Cõe dit saĩct Paul¬"
+            <String CONTENT="re grãdz ⁊ riches. Cõe dit saĩct Paul."
                     HPOS="410"
                     VPOS="3274"
                     WIDTH="2016"
                     HEIGHT="224"
-                    WC="0.9832677143376048"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_c8927cd5"
                     TAGREFS="LT8"

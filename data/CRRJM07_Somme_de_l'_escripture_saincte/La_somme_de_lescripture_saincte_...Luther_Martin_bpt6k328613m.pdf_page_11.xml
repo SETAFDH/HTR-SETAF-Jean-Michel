@@ -527,12 +527,12 @@
                     WIDTH="405"
                     HEIGHT="219">
             <Shape><Polygon POINTS="2309 4506 2704 4528 2714 4469 2709 4341 2458 4352 2320 4309 2314 4458 2309 4506"/></Shape>
-            <String CONTENT="Rom.3."
+            <String CONTENT="Rom.◊."
                     HPOS="2309"
                     VPOS="4309"
                     WIDTH="405"
                     HEIGHT="219"
-                    WC="0.9991290072600046"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

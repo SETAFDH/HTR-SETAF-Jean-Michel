@@ -143,12 +143,12 @@
                     WIDTH="2213"
                     HEIGHT="204">
             <Shape><Polygon POINTS="1868 1586 1864 1624 1932 1647 1936 1647 4069 1662 4077 1617 4077 1514 3967 1484 3963 1484 3960 1484 3816 1507 3759 1477 3755 1477 3637 1477 3634 1477 3630 1477 3626 1477 3588 1503 3357 1503 3300 1473 3296 1473 3293 1473 2974 1495 2914 1465 2910 1465 2906 1465 2466 1488 2360 1458 2357 1458 2213 1458 2209 1458 2205 1458 2144 1484 1936 1458 1932 1458 1928 1458 1868 1480 1868 1586"/></Shape>
-            <String CONTENT="leur uie manifẽstee ⁊ apparoistra de¬"
+            <String CONTENT="leur uie manifestee ⁊ apparoistra de¬"
                     HPOS="1864"
                     VPOS="1458"
                     WIDTH="2213"
                     HEIGHT="204"
-                    WC="0.9988594792391124"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_a1ab9416"
                     TAGREFS="LT8"
@@ -248,12 +248,12 @@
                     WIDTH="2182"
                     HEIGHT="238">
             <Shape><Polygon POINTS="1840 2715 1835 2760 4005 2794 4017 2732 4011 2601 3272 2601 3193 2567 3187 2567 3181 2567 2863 2590 2522 2556 2517 2556 1840 2573 1840 2715"/></Shape>
-            <String CONTENT="mourir. Car (cõe dit le ꝓphete Iob"
+            <String CONTENT="mourir. Car (cõe dit le ꝓphete Iob)"
                     HPOS="1835"
                     VPOS="2556"
                     WIDTH="2182"
                     HEIGHT="238"
-                    WC="0.9886053119386945"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_c48c8d56"
                     TAGREFS="LT8"
@@ -398,12 +398,12 @@
                     WIDTH="1769"
                     HEIGHT="212">
             <Shape><Polygon POINTS="3948 4181 3895 4203 3808 4184 3804 4184 3800 4184 3797 4184 3770 4203 3728 4177 3725 4177 3721 4177 3717 4177 3497 4200 3380 4169 3376 4169 3372 4169 3368 4169 3281 4196 3168 4162 3164 4162 3160 4162 3156 4162 3152 4162 3111 4192 2705 4192 2592 4154 2588 4154 2197 4154 2197 4283 2194 4325 2645 4325 2701 4351 2705 4351 2709 4351 2948 4328 3005 4355 3008 4355 3012 4355 3130 4332 3202 4359 3205 4359 3209 4359 3471 4340 3505 4362 3509 4362 3512 4362 3516 4362 3664 4340 3956 4366 3963 4309 3956 4192 3948 4181"/></Shape>
-            <String CONTENT="Uãd donc nous sommes bapii"
+            <String CONTENT="Uãd donc nous sommes bapti"
                     HPOS="2194"
                     VPOS="4154"
                     WIDTH="1769"
                     HEIGHT="212"
-                    WC="0.9996401557215938"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_0f8ee578"
                     TAGREFS="LT8"
@@ -481,12 +481,12 @@
                     WIDTH="369"
                     HEIGHT="335">
             <Shape><Polygon POINTS="1812 4476 2170 4487 2181 4425 2181 4226 2102 4220 2022 4152 2017 4152 2011 4152 2005 4152 1818 4152 1818 4419"/></Shape>
-            <String CONTENT="M"
+            <String CONTENT="Q"
                     HPOS="1812"
                     VPOS="4152"
                     WIDTH="369"
                     HEIGHT="335"
-                    WC="1.0"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="3491"
@@ -527,12 +527,12 @@
                     WIDTH="330"
                     HEIGHT="267">
             <Shape><Polygon POINTS="1784 2556 1755 2579 1630 2550 1624 2550 1619 2550 1613 2550 1573 2579 1477 2550 1471 2732 1477 2817 1607 2783 1795 2800 1801 2732 1784 2556"/></Shape>
-            <String CONTENT="Iob.7"
+            <String CONTENT="Iob.7."
                     HPOS="1471"
                     VPOS="2550"
                     WIDTH="330"
                     HEIGHT="267"
-                    WC="0.999717628955841"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
