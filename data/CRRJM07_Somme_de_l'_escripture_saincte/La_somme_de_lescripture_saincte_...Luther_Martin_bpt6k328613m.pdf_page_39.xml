@@ -458,12 +458,12 @@
                     WIDTH="1808"
                     HEIGHT="245">
             <Shape><Polygon POINTS="629 4666 629 4778 762 4725 970 4762 976 4762 1130 4741 1264 4789 1269 4789 1642 4794 1648 4794 1653 4794 1765 4736 1936 4736 2016 4784 2021 4784 2026 4784 2032 4789 2144 4789 2144 4784 2149 4784 2154 4784 2154 4778 2202 4741 2426 4773 2437 4688 2426 4549 629 4549 629 4666"/></Shape>
-            <String CONTENT="fondement de Chresciente/ est la."
+            <String CONTENT="fondement de Chrestiente/ est la"
                     HPOS="629"
                     VPOS="4549"
                     WIDTH="1808"
                     HEIGHT="245"
-                    WC="0.9931089155601732"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="369"

@@ -353,12 +353,12 @@
                     WIDTH="2063"
                     HEIGHT="178">
             <Shape><Polygon POINTS="444 3633 440 3683 2499 3680 2503 3640 2496 3530 2105 3530 2023 3509 2019 3509 2016 3509 2012 3509 2009 3509 2009 3512 1987 3534 1756 3534 1724 3512 1721 3512 1717 3512 1713 3512 1568 3530 1475 3505 1472 3505 1368 3505 1365 3505 1361 3505 1358 3505 1329 3527 1194 3505 1191 3505 558 3527 515 3505 512 3505 508 3505 504 3505 444 3523 444 3633"/></Shape>
-            <String CONTENT="Foy que nous auõs au baptesme noꝰ."
+            <String CONTENT="Foy que nous auõs au baptesme noꝰ"
                     HPOS="440"
                     VPOS="3505"
                     WIDTH="2063"
                     HEIGHT="178"
-                    WC="0.995302540915353"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_5d2adae8"
                     TAGREFS="LT8"
@@ -481,12 +481,12 @@
                     WIDTH="944"
                     HEIGHT="240">
             <Shape><Polygon POINTS="1525 4848 1525 4954 2469 4917 2469 4848 2464 4720 1957 4746 1914 4714 1909 4714 1904 4714 1898 4714 1728 4746 1562 4714 1557 4714 1552 4714 1546 4714 1525 4730 1525 4848"/></Shape>
-            <String CONTENT="O 5 cepuoir"
+            <String CONTENT="B 5 cepuoir"
                     HPOS="1525"
                     VPOS="4714"
                     WIDTH="944"
                     HEIGHT="240"
-                    WC="0.9910685582594438"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2484"
