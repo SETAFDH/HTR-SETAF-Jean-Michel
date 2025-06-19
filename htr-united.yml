@@ -64,8 +64,8 @@ characters:
   - /
   - ','
   - y
-  - h
   - g
+  - h
   - b
   - ⁊
   - z
@@ -124,8 +124,9 @@ characters:
   - ;
   - J
   - "'"
-  - ̀
   - Z
+  - ̀
+  - ᗅ
   - v
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel/blob/main/CITATION.cff
@@ -160,7 +161,7 @@ transcription-guidelines: >-
   our rules is available on HAL  (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
-- count: 507504
+- count: 507542
   metric: characters
 - count: 667
   metric: files
