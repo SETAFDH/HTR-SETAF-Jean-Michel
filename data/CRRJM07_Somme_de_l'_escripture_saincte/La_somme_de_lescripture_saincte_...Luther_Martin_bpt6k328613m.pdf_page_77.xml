@@ -37,12 +37,12 @@
                     WIDTH="169"
                     HEIGHT="220">
             <Shape><Polygon POINTS="2451 779 2451 835 2620 825 2620 779 2620 620 2451 615 2451 779"/></Shape>
-            <String CONTENT="H"
+            <String CONTENT="73"
                     HPOS="2451"
                     VPOS="615"
                     WIDTH="169"
                     HEIGHT="220"
-                    WC="0.9947047829627991"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1110"
@@ -458,12 +458,12 @@
                     WIDTH="2003"
                     HEIGHT="202">
             <Shape><Polygon POINTS="413 4557 410 4625 663 4608 707 4639 711 4639 714 4639 718 4639 721 4639 772 4612 847 4646 851 4646 1182 4649 1186 4649 1189 4649 1258 4632 1326 4649 1330 4649 1333 4649 1336 4649 1398 4625 1418 4646 1422 4646 1425 4646 1617 4653 1620 4653 1624 4653 1627 4653 1675 4618 1801 4622 1836 4653 1836 4656 1839 4656 1842 4656 1846 4656 1849 4656 1942 4622 2109 4653 2112 4653 2116 4653 2188 4625 2407 4636 2413 4577 2413 4471 413 4454 413 4557"/></Shape>
-            <String CONTENT="sans se merite daucunes bonnes oeu¬"
+            <String CONTENT="sans le merite daucunes bonnes oeu¬"
                     HPOS="410"
                     VPOS="4454"
                     WIDTH="2003"
                     HEIGHT="202"
-                    WC="0.9966234292302812"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1616"

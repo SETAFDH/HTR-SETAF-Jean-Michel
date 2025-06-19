@@ -37,12 +37,12 @@
                     WIDTH="193"
                     HEIGHT="237">
             <Shape><Polygon POINTS="1659 786 1659 856 1847 856 1847 780 1831 619 1654 651 1659 786"/></Shape>
-            <String CONTENT="72."
+            <String CONTENT="72"
                     HPOS="1654"
                     VPOS="619"
                     WIDTH="193"
                     HEIGHT="237"
-                    WC="0.9994327028592428"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2617"
@@ -113,12 +113,12 @@
                     WIDTH="2128"
                     HEIGHT="253">
             <Shape><Polygon POINTS="2117 1119 2111 1119 2106 1119 2101 1119 2047 1146 1891 1125 1891 1265 1885 1308 4003 1372 4013 1308 4013 1195 3782 1195 3706 1157 3701 1157 3695 1157 3534 1184 3297 1146 3291 1146 3065 1168 2780 1136 2774 1136 2769 1136 2677 1162 2580 1130 2575 1130 2569 1130 2419 1157 2349 1125 2343 1125 2338 1125 2176 1152 2122 1119 2117 1119"/></Shape>
-            <String CONTENT="de linstitutiõ ꝑle saĩct Luc en ceste ma"
+            <String CONTENT="de linstitutiõ ꝑ le saĩct Luc en ceste ma"
                     HPOS="1885"
                     VPOS="1119"
                     WIDTH="2128"
                     HEIGHT="253"
-                    WC="0.9819187011037555"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_bb96e5f5"
                     TAGREFS="LT8"

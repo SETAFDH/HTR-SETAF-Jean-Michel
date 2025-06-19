@@ -37,12 +37,12 @@
                     WIDTH="185"
                     HEIGHT="246">
             <Shape><Polygon POINTS="2307 728 2307 830 2492 789 2492 728 2487 584 2307 600 2307 728"/></Shape>
-            <String CONTENT="7i"
+            <String CONTENT="71"
                     HPOS="2307"
                     VPOS="584"
                     WIDTH="185"
                     HEIGHT="246"
-                    WC="0.997507780790329"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="893"
@@ -60,12 +60,12 @@
                     WIDTH="831"
                     HEIGHT="188">
             <Shape><Polygon POINTS="1627 629 1593 629 1559 629 1555 629 1487 656 1384 649 1364 629 1353 629 1319 629 1306 629 1172 649 1138 629 1114 629 1080 629 1046 629 1012 629 988 629 943 659 947 765 947 813 1135 817 1138 817 1141 817 1145 817 1179 796 1210 817 1213 817 1217 817 1220 817 1224 817 1323 789 1456 803 1459 803 1463 803 1497 786 1771 800 1774 755 1767 656 1637 629 1627 629"/></Shape>
-            <String CONTENT="Chapitre uii."
+            <String CONTENT="Chapitre .uii."
                     HPOS="943"
                     VPOS="629"
                     WIDTH="831"
                     HEIGHT="188"
-                    WC="0.9706756335038406"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="266"

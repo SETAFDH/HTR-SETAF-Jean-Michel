@@ -37,12 +37,12 @@
                     WIDTH="313"
                     HEIGHT="307">
             <Shape><Polygon POINTS="1573 866 1583 969 1616 942 1654 974 1659 974 1664 974 1670 974 1804 969 1810 969 1880 926 1880 856 1864 667 1567 732 1573 866"/></Shape>
-            <String CONTENT="c4"
+            <String CONTENT="64"
                     HPOS="1567"
                     VPOS="667"
                     WIDTH="313"
                     HEIGHT="307"
-                    WC="1.0"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2472"
@@ -278,12 +278,12 @@
                     WIDTH="2155"
                     HEIGHT="165">
             <Shape><Polygon POINTS="1846 3025 1846 3061 3990 3072 3997 3029 3994 2907 1842 2907 1846 3025"/></Shape>
-            <String CONTENT="est es mains/ et uolute de Dieu/ de le"
+            <String CONTENT="est es mains/ et uolũte de Dieu/ de le"
                     HPOS="1842"
                     VPOS="2907"
                     WIDTH="2155"
                     HEIGHT="165"
-                    WC="0.9873848526101363"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b2a7d9a3"
                     TAGREFS="LT8"

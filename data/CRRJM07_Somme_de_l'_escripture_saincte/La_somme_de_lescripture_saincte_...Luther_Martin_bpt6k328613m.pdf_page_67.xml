@@ -37,12 +37,12 @@
                     WIDTH="265"
                     HEIGHT="346">
             <Shape><Polygon POINTS="2465 748 2465 780 2524 780 2640 876 2646 876 2651 876 2656 876 2725 870 2725 743 2710 530 2460 568 2465 748"/></Shape>
-            <String CONTENT="cz"
+            <String CONTENT="63"
                     HPOS="2460"
                     VPOS="530"
                     WIDTH="265"
                     HEIGHT="346"
-                    WC="0.999998927116394"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1074"
@@ -203,12 +203,12 @@
                     WIDTH="2136"
                     HEIGHT="244">
             <Shape><Polygon POINTS="1408 1980 1355 1980 1301 1980 1248 1980 1206 1975 1147 1975 1142 1975 1137 1975 1131 1975 1131 1980 1105 2006 898 2006 855 1975 850 1975 844 1975 839 1975 669 1996 627 1964 621 1964 616 1964 611 1964 605 1964 531 1990 398 1964 398 2113 393 2155 2518 2208 2529 2150 2524 2006 1450 2012 1429 1985 1424 1985 1424 1980 1408 1980"/></Shape>
-            <String CONTENT="loue/ ou ayme autre que luy seul/ ainse"
+            <String CONTENT="loue/ ou ayme autre que luy seul/ ainsi"
                     HPOS="393"
                     VPOS="1964"
                     WIDTH="2136"
                     HEIGHT="244"
-                    WC="0.9993920005284823"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_6a65ca25"
                     TAGREFS="LT8"

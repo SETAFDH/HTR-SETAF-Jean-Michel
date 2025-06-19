@@ -60,12 +60,12 @@
                     WIDTH="841"
                     HEIGHT="212">
             <Shape><Polygon POINTS="1630 601 1596 601 1562 601 1528 601 1494 601 1477 601 1449 629 1353 629 1275 605 1254 608 1220 608 1186 608 1152 608 1118 608 1083 608 1049 611 1032 611 1022 622 981 611 947 611 878 639 885 752 885 810 1288 813 1292 813 1295 813 1418 782 1617 800 1620 800 1624 800 1719 769 1719 728 1709 618 1671 618 1651 601 1630 601"/></Shape>
-            <String CONTENT="Chapitre uii."
+            <String CONTENT="Chapitre .uii."
                     HPOS="878"
                     VPOS="601"
                     WIDTH="841"
                     HEIGHT="212"
-                    WC="0.9920072326293359"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="326"
@@ -527,12 +527,12 @@
                     WIDTH="425"
                     HEIGHT="215">
             <Shape><Polygon POINTS="2405 1938 2400 2020 2820 2005 2825 1943 2825 1810 2405 1805 2405 1938"/></Shape>
-            <String CONTENT="Mar.i."
+            <String CONTENT="Mar.1."
                     HPOS="2400"
                     VPOS="1805"
                     WIDTH="425"
                     HEIGHT="215"
-                    WC="0.9992494185765585"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2394"
@@ -550,12 +550,12 @@
                     WIDTH="364"
                     HEIGHT="256">
             <Shape><Polygon POINTS="2430 2779 2430 2856 2784 2851 2789 2774 2774 2600 2425 2646 2430 2779"/></Shape>
-            <String CONTENT="Iehã.5."
+            <String CONTENT="Iehã.3."
                     HPOS="2425"
                     VPOS="2600"
                     WIDTH="364"
                     HEIGHT="256"
-                    WC="0.9681821167469025"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
