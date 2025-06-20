@@ -37,12 +37,12 @@
                     WIDTH="243"
                     HEIGHT="255">
             <Shape><Polygon POINTS="1649 889 1649 939 1887 945 1892 889 1892 696 1649 690 1649 889"/></Shape>
-            <String CONTENT="11b"
+            <String CONTENT="118"
                     HPOS="1649"
                     VPOS="690"
                     WIDTH="243"
                     HEIGHT="255"
-                    WC="0.9972186287244161"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2104"
@@ -98,12 +98,12 @@
                     WIDTH="2114"
                     HEIGHT="254">
             <Shape><Polygon POINTS="1964 1210 1959 1254 4062 1326 4073 1265 4067 1133 1964 1072 1964 1210"/></Shape>
-            <String CONTENT="un Chrestien. Tel estoit Iob quãd ⁊"
+            <String CONTENT="un Chrestien. Tel estoit Iob quãd il"
                     HPOS="1959"
                     VPOS="1072"
                     WIDTH="2114"
                     HEIGHT="254"
-                    WC="0.9999288221200308"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_14a240de"
                     TAGREFS="LT8"
@@ -113,12 +113,12 @@
                     WIDTH="2125"
                     HEIGHT="254">
             <Shape><Polygon POINTS="1948 1420 2014 1448 2020 1448 2025 1448 2219 1426 2318 1453 2324 1453 2329 1453 2496 1431 2551 1459 2556 1459 2562 1459 2789 1437 2905 1464 2911 1464 2916 1464 3160 1442 4062 1481 4073 1403 4073 1293 3807 1293 3774 1260 3768 1260 3763 1260 3757 1260 3470 1282 3309 1249 3304 1249 3171 1276 3032 1243 3027 1243 3021 1243 2877 1271 2556 1232 2551 1232 2545 1232 2540 1232 2501 1260 2468 1232 2462 1232 2457 1232 2451 1232 2036 1254 1959 1227 1953 1365 1948 1420"/></Shape>
-            <String CONTENT="disoit: Iasoit aussi quil me occise/ en/"
+            <String CONTENT="disoit: Iasoit aussi quil me occise/ en¬"
                     HPOS="1948"
                     VPOS="1227"
                     WIDTH="2125"
                     HEIGHT="254"
-                    WC="0.9936304599046707"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_18ad43e6"
                     TAGREFS="LT8"
