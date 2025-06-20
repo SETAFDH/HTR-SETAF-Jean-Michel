@@ -37,12 +37,12 @@
                     WIDTH="232"
                     HEIGHT="349">
             <Shape><Polygon POINTS="1577 829 1577 945 1809 895 1809 829 1804 596 1577 635 1577 829"/></Shape>
-            <String CONTENT="1od̃"
+            <String CONTENT="108"
                     HPOS="1577"
                     VPOS="596"
                     WIDTH="232"
                     HEIGHT="349"
-                    WC="0.9555631130933762"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2183"
@@ -248,12 +248,12 @@
                     WIDTH="2132"
                     HEIGHT="243">
             <Shape><Polygon POINTS="1755 2712 1751 2752 3876 2815 3883 2774 3883 2656 3385 2656 3300 2620 3297 2620 3293 2620 3289 2620 3223 2645 3167 2620 3164 2620 3160 2620 3024 2642 2983 2608 2979 2608 2976 2608 2799 2605 2795 2605 2791 2605 2788 2605 2765 2623 2740 2601 2736 2601 2732 2601 2729 2601 2441 2623 2356 2590 2352 2590 2205 2583 2201 2583 2072 2608 2028 2579 2024 2579 2021 2579 1939 2579 1936 2579 1932 2579 1891 2601 1855 2572 1851 2572 1847 2572 1843 2572 1840 2572 1755 2597 1755 2712"/></Shape>
-            <String CONTENT="faict a lhõneur de Dieu. Et prenong"
+            <String CONTENT="faict a lhõneur de Dieu. Et prenons"
                     HPOS="1751"
                     VPOS="2572"
                     WIDTH="2132"
                     HEIGHT="243"
-                    WC="0.971875806649526"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_6728aa2f"
                     TAGREFS="LT8"

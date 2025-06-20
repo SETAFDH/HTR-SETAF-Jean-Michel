@@ -37,12 +37,12 @@
                     WIDTH="260"
                     HEIGHT="282">
             <Shape><Polygon POINTS="1699 906 1693 1000 1948 989 1953 912 1948 757 1699 718 1699 906"/></Shape>
-            <String CONTENT="us."
+            <String CONTENT="116"
                     HPOS="1693"
                     VPOS="718"
                     WIDTH="260"
                     HEIGHT="282"
-                    WC="0.9987421830495199"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2165"
@@ -83,12 +83,12 @@
                     WIDTH="2137"
                     HEIGHT="238">
             <Shape><Polygon POINTS="1931 1099 1925 1149 4051 1188 4062 1160 4062 1022 3829 983 3824 983 3818 983 3735 1011 3713 983 3708 983 3708 978 3702 978 3696 978 3442 972 3436 972 3431 972 3425 972 3387 1000 3281 967 3276 967 1931 950 1931 1099"/></Shape>
-            <String CONTENT="rance, toute leur fiance, tout leur ton¬"
+            <String CONTENT="rance, toute leur fiance, tout leur con¬"
                     HPOS="1925"
                     VPOS="950"
                     WIDTH="2137"
                     HEIGHT="238"
-                    WC="0.9821752548217774"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_26d0a1a9"
                     TAGREFS="LT8"
@@ -98,12 +98,12 @@
                     WIDTH="2097"
                     HEIGHT="237">
             <Shape><Polygon POINTS="1942 1243 1937 1315 3077 1315 3149 1343 3154 1343 3160 1343 3337 1321 4023 1359 4034 1293 4034 1171 1942 1122 1942 1243"/></Shape>
-            <String CONTENT="fort, tout leur refuge/ finablem̃t toui"
+            <String CONTENT="fort, tout leur refuge/ finablem̃t tout"
                     HPOS="1937"
                     VPOS="1122"
                     WIDTH="2097"
                     HEIGHT="237"
-                    WC="0.9884122411410013"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_a45e8423"
                     TAGREFS="LT8"
@@ -113,12 +113,12 @@
                     WIDTH="2142"
                     HEIGHT="226">
             <Shape><Polygon POINTS="1925 1392 1920 1431 4051 1486 4062 1448 4056 1332 3143 1282 3137 1282 2844 1298 2800 1271 2794 1271 2789 1271 2783 1271 2601 1293 2590 1271 2584 1271 2584 1265 2579 1265 2573 1265 2567 1265 2418 1287 2379 1260 2374 1260 2368 1260 2363 1260 1925 1271 1925 1392"/></Shape>
-            <String CONTENT="leur salut en Dieu seul/ querantz ton"
+            <String CONTENT="leur salut en Dieu seul/ querantz tou"
                     HPOS="1920"
                     VPOS="1260"
                     WIDTH="2142"
                     HEIGHT="226"
-                    WC="0.998151421546936"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_6a04cf3f"
                     TAGREFS="LT8"
@@ -128,12 +128,12 @@
                     WIDTH="2147"
                     HEIGHT="248">
             <Shape><Polygon POINTS="1925 1553 1920 1597 1997 1625 2003 1625 2008 1625 2130 1602 2191 1630 2197 1630 2202 1630 2745 1619 2800 1647 2805 1647 2811 1647 2949 1625 2983 1652 2988 1652 2994 1652 2999 1652 3409 1636 3436 1658 3436 1663 3442 1663 3447 1663 3453 1663 3458 1663 3541 1641 4056 1674 4067 1608 4067 1486 2800 1426 2794 1426 1925 1426 1925 1553"/></Shape>
-            <String CONTENT="tes ces choses en luy/ ⁊ les attendant,"
+            <String CONTENT="tes ces choses en luy/ ⁊ les attendantz"
                     HPOS="1920"
                     VPOS="1426"
                     WIDTH="2147"
                     HEIGHT="248"
-                    WC="0.9917923166201665"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_937f2a3d"
                     TAGREFS="LT8"
@@ -173,12 +173,12 @@
                     WIDTH="2115"
                     HEIGHT="216">
             <Shape><Polygon POINTS="1931 2000 1931 2017 1925 2061 4029 2089 4040 2045 4034 1918 2866 1918 2695 1879 2689 1879 2363 1906 2219 1873 2213 1873 2208 1873 1964 1901 1931 2000"/></Shape>
-            <String CONTENT="S. Paul, disant: Quiconques inuoc/"
+            <String CONTENT="S. Paul, disant: Quiconques inuoc¬"
                     HPOS="1925"
                     VPOS="1873"
                     WIDTH="2115"
                     HEIGHT="216"
-                    WC="0.9835362872656654"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_95700f4e"
                     TAGREFS="LT8"
@@ -248,12 +248,12 @@
                     WIDTH="2131"
                     HEIGHT="227">
             <Shape><Polygon POINTS="1887 2774 1881 2813 4001 2874 4012 2813 4001 2669 3708 2691 3320 2658 1887 2647 1887 2774"/></Shape>
-            <String CONTENT="Christ en Leuangile. Affin que chascq̃"
+            <String CONTENT="Christ en Leuangile. Affin que chascũ"
                     HPOS="1881"
                     VPOS="2647"
                     WIDTH="2131"
                     HEIGHT="227"
-                    WC="0.999506696274406"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_96a2464d"
                     TAGREFS="LT8"

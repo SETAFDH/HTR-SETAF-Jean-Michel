@@ -37,12 +37,12 @@
                     WIDTH="212"
                     HEIGHT="222">
             <Shape><Polygon POINTS="2530 557 2499 553 2492 550 2324 533 2324 666 2321 735 2352 755 2355 755 2359 755 2362 755 2530 741 2533 673 2533 564 2530 557"/></Shape>
-            <String CONTENT="Llz"
+            <String CONTENT="113"
                     HPOS="2321"
                     VPOS="533"
                     WIDTH="212"
                     HEIGHT="222"
-                    WC="0.9928182562192281"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="895"
@@ -196,12 +196,12 @@
                     WIDTH="1703"
                     HEIGHT="205">
             <Shape><Polygon POINTS="620 1738 620 1774 2313 1764 2318 1717 2307 1605 2112 1605 2082 1574 2082 1569 2077 1569 2071 1569 2066 1569 1856 1605 1492 1574 1487 1574 1482 1574 1477 1574 1477 1579 1441 1610 1359 1579 1353 1579 1348 1579 1343 1579 1338 1579 1338 1584 1307 1610 1194 1579 1189 1579 1184 1579 1179 1579 1041 1615 1005 1584 1000 1584 994 1584 989 1584 984 1584 979 1584 943 1610 615 1589 620 1738"/></Shape>
-            <String CONTENT="Epresent chapitre (pour ce q̃ iay"
+            <String CONTENT="E present chapitre (pour ce q̃ iay"
                     HPOS="615"
                     VPOS="1569"
                     WIDTH="1703"
                     HEIGHT="205"
-                    WC="0.9771420720851782"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_46c53dec"
                     TAGREFS="LT8"

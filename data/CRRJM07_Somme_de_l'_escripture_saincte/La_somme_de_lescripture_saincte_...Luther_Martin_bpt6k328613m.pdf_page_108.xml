@@ -37,12 +37,12 @@
                     WIDTH="294"
                     HEIGHT="222">
             <Shape><Polygon POINTS="1792 574 1756 574 1752 574 1731 595 1670 595 1630 574 1627 574 1623 574 1619 574 1616 574 1609 574 1580 656 1580 710 1580 796 1874 796 1874 703 1867 585 1810 574 1792 574"/></Shape>
-            <String CONTENT="104."
+            <String CONTENT="104"
                     HPOS="1580"
                     VPOS="574"
                     WIDTH="294"
                     HEIGHT="222"
-                    WC="0.8761065155267715"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2225"
@@ -83,12 +83,12 @@
                     WIDTH="2112"
                     HEIGHT="253">
             <Shape><Polygon POINTS="1810 888 1804 931 3906 996 3916 936 3911 764 3712 786 3695 764 3690 764 3690 759 3685 759 3679 759 1810 743 1810 888"/></Shape>
-            <String CONTENT="cel. Pourtant ayme Dieu mieulx ui"
+            <String CONTENT="tel. Pourtant ayme Dieu mieulx un"
                     HPOS="1804"
                     VPOS="743"
                     WIDTH="2112"
                     HEIGHT="253"
-                    WC="0.9974401502898245"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_8c9846fa"
                     TAGREFS="LT8"
@@ -98,12 +98,12 @@
                     WIDTH="2139"
                     HEIGHT="226">
             <Shape><Polygon POINTS="1821 1055 1815 1098 1961 1082 1988 1103 1988 1109 1993 1109 1998 1109 2004 1109 3130 1109 3211 1136 3216 1136 3221 1136 3458 1114 3706 1146 3712 1146 3949 1119 3954 1098 3954 969 1821 920 1821 1055"/></Shape>
-            <String CONTENT="pecheur repentant et requerant par/"
+            <String CONTENT="pecheur repentant et requerant par¬"
                     HPOS="1815"
                     VPOS="920"
                     WIDTH="2139"
                     HEIGHT="226"
-                    WC="0.9997370788029262"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_82ca4019"
                     TAGREFS="LT8"
@@ -278,12 +278,12 @@
                     WIDTH="2074"
                     HEIGHT="210">
             <Shape><Polygon POINTS="1804 2869 1799 2896 1923 2928 1928 2928 2144 2907 2483 2939 2489 2945 3868 2945 3873 2907 3868 2783 1804 2735 1804 2869"/></Shape>
-            <String CONTENT="cherent a Iesus Christ quil estois"
+            <String CONTENT="cherent a Iesus Christ quil estoit"
                     HPOS="1799"
                     VPOS="2735"
                     WIDTH="2074"
                     HEIGHT="210"
-                    WC="0.9754239268162671"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_7cb0eb4e"
                     TAGREFS="LT8"
