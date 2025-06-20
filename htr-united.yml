@@ -156,10 +156,10 @@ time:
   notBefore: '1500'
 title: HTR-SETAF-Jean-Michel
 transcription-guidelines: >-
-  Our data follow SegmOnto segmentation standards (https://segmonto.github.io).  Our
+  Our data follow SegmOnto segmentation standards (https://segmonto.github.io). Our
   transcription guidelines follow a graphematic approach, without  regularisation.
-  We keep the original punctuation and abbreviations. A detailed  presentation of
-  our rules is available on HAL  (https://hal.science/hal-04281804).
+  We keep the original punctuation and abbreviations. A detailed presentation of
+  our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
 - count: 507580
