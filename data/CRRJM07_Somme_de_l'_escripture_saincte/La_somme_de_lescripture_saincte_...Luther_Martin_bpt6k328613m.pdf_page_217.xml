@@ -37,12 +37,12 @@
                     WIDTH="234"
                     HEIGHT="234">
             <Shape><Polygon POINTS="2719 640 2705 633 2684 630 2650 623 2612 616 2609 613 2509 637 2516 730 2516 809 2619 847 2622 847 2626 847 2743 833 2743 723 2740 706 2719 640"/></Shape>
-            <String CONTENT="2iz."
+            <String CONTENT="213"
                     HPOS="2509"
                     VPOS="613"
                     WIDTH="234"
                     HEIGHT="234"
-                    WC="0.9692025929689407"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="949"
@@ -504,12 +504,12 @@
                     WIDTH="448"
                     HEIGHT="227">
             <Shape><Polygon POINTS="2374 3410 2367 3530 2364 3596 2578 3627 2581 3627 2585 3627 2653 3602 2688 3633 2691 3633 2695 3633 2698 3637 2809 3637 2812 3551 2812 3465 2798 3451"/></Shape>
-            <String CONTENT="Mat.34"
+            <String CONTENT="Mat.24"
                     HPOS="2364"
                     VPOS="3410"
                     WIDTH="448"
                     HEIGHT="227"
-                    WC="0.998170922199885"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -550,12 +550,12 @@
                     WIDTH="2497"
                     HEIGHT="193">
             <Shape><Polygon POINTS="3412 3982 3361 3977 2904 3977 2853 3972 2395 3972 2344 3967 1891 3967 1886 3926 1790 3876 1434 3876 1434 3967 1429 4038 2425 4023 2588 4058 2878 4028 3010 4063 3020 4063 3285 4033 3422 4069 3661 4043 3824 4069 3921 4038 3926 3992 3926 3987 3921 3982"/></Shape>
-            <String CONTENT="Luce.13.egeNumerpuorerrrset¬.de"
+            <String CONTENT="Luce.13."
                     HPOS="1429"
                     VPOS="3876"
                     WIDTH="2497"
                     HEIGHT="193"
-                    WC="0.9081214589457358"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

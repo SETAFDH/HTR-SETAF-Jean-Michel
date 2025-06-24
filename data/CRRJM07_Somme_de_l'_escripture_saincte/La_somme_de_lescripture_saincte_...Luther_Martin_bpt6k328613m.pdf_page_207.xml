@@ -37,12 +37,12 @@
                     WIDTH="276"
                     HEIGHT="186">
             <Shape><Polygon POINTS="2543 606 2509 606 2474 606 2440 606 2405 606 2371 606 2336 616 2340 723 2340 788 2609 792 2612 716 2605 623 2581 609"/></Shape>
-            <String CONTENT="20z"
+            <String CONTENT="203"
                     HPOS="2336"
                     VPOS="606"
                     WIDTH="276"
                     HEIGHT="186"
-                    WC="0.9999957879384359"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="976"
@@ -293,12 +293,12 @@
                     WIDTH="2019"
                     HEIGHT="200">
             <Shape><Polygon POINTS="420 2938 420 2979 579 2979 603 2996 606 2996 610 2996 613 2996 1282 2969 1468 2986 1471 2986 1719 2965 1785 2982 1788 2982 1792 2982 1795 2982 1854 2965 2429 2976 2436 2914 2429 2810 2240 2796 2236 2796 2099 2814 2064 2796 2061 2796 2057 2796 2054 2796 2050 2796 2030 2817 1706 2817 1564 2800 1561 2800 1271 2824 992 2807 989 2807 417 2831 420 2938"/></Shape>
-            <String CONTENT="dabitz. Lar par ce est souuent le peu¬"
+            <String CONTENT="dabitz. Car par ce est souuent le peu¬"
                     HPOS="417"
                     VPOS="2796"
                     WIDTH="2019"
                     HEIGHT="200"
-                    WC="0.9977389574050903"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_ef7e8c2d"
                     TAGREFS="LT8"

@@ -368,12 +368,12 @@
                     WIDTH="1960"
                     HEIGHT="238">
             <Shape><Polygon POINTS="439 3689 434 3735 2384 3792 2394 3735 2394 3616 1106 3601 1039 3570 1034 3570 1029 3570 915 3590 879 3565 874 3565 868 3565 863 3565 677 3585 439 3554 439 3689"/></Shape>
-            <String CONTENT="Paul auxRomains. Beneissez ceux/"
+            <String CONTENT="Paul aux Romains. Beneissez ceux/"
                     HPOS="434"
                     VPOS="3554"
                     WIDTH="1960"
                     HEIGHT="238"
-                    WC="0.9935649391263723"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_08036d85"
                     TAGREFS="LT8"

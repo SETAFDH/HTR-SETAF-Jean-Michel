@@ -37,12 +37,12 @@
                     WIDTH="310"
                     HEIGHT="200">
             <Shape><Polygon POINTS="1981 534 1891 524 1891 524 1857 524 1822 524 1798 524 1688 541 1691 666 1691 724 1998 704 1998 659 1991 538 1981 534"/></Shape>
-            <String CONTENT="20d"
+            <String CONTENT="208"
                     HPOS="1688"
                     VPOS="524"
                     WIDTH="310"
                     HEIGHT="200"
-                    WC="0.9999715089797974"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2562"
@@ -128,12 +128,12 @@
                     WIDTH="2120"
                     HEIGHT="180">
             <Shape><Polygon POINTS="1895 1294 1895 1325 4008 1314 4011 1283 4004 1169 3376 1169 3307 1145 3303 1145 3300 1145 3065 1149 3062 1149 3020 1169 2830 1149 2827 1149 2823 1149 2744 1169 2675 1149 2672 1149 2668 1149 2575 1166 2523 1152 2520 1152 2516 1152 2513 1152 2509 1152 2482 1173 1995 1156 1991 1156 1891 1176 1895 1294"/></Shape>
-            <String CONTENT="ches. Car il fault quilz uiuent toꝰ/ tq̃c"
+            <String CONTENT="ches. Car il fault quilz uiuent toꝰ/ tãt"
                     HPOS="1891"
                     VPOS="1145"
                     WIDTH="2120"
                     HEIGHT="180"
-                    WC="0.9903371261387337"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_2891d6ba"
                     TAGREFS="LT8"
@@ -263,12 +263,12 @@
                     WIDTH="2051"
                     HEIGHT="218">
             <Shape><Polygon POINTS="2806 2484 2801 2484 2796 2484 2765 2510 2138 2489 2133 2489 1905 2515 1910 2640 1910 2702 2102 2676 2703 2697 2708 2697 2713 2697 2785 2671 3598 2691 3604 2691 3951 2660 3956 2629 3951 2505 2811 2484 2806 2484"/></Shape>
-            <String CONTENT="parle Iesu Christ en l&#x27;Euangile nest"
+            <String CONTENT="parle Iesu Christ en lEuangile nest"
                     HPOS="1905"
                     VPOS="2484"
                     WIDTH="2051"
                     HEIGHT="218"
-                    WC="0.9959390461444855"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b3615cd6"
                     TAGREFS="LT8"
@@ -458,12 +458,12 @@
                     WIDTH="2006"
                     HEIGHT="290">
             <Shape><Polygon POINTS="1888 4583 1888 4738 2285 4738 2288 4738 2440 4655 2506 4655 2568 4686 2571 4686 2575 4686 2578 4686 2768 4634 2851 4638 2920 4696 2924 4696 2927 4696 2930 4696 3072 4693 3075 4693 3079 4693 3124 4652 3224 4631 3372 4648 3559 4731 3562 4731 3566 4731 3569 4731 3573 4731 3697 4631 3887 4631 3890 4572 3880 4458 3172 4472 3134 4448 3131 4448 3127 4448 3044 4448 3041 4448 2906 4472 2882 4451 2882 4448 2879 4448 2875 4448 2872 4448 2692 4469 2606 4448 2603 4448 2599 4448 2596 4448 2554 4469 2513 4455 2509 4455 2506 4455 2323 4476 2264 4451 2261 4451 2257 4451 1884 4451 1888 4583"/></Shape>
-            <String CONTENT="Chrestiens. Car il pillent te quappar¬"
+            <String CONTENT="Chrestiens. Car il pillent ce quappar¬"
                     HPOS="1884"
                     VPOS="4448"
                     WIDTH="2006"
                     HEIGHT="290"
-                    WC="0.9904865669576746"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="3600"
