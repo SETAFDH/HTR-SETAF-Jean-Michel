@@ -527,12 +527,12 @@
                     WIDTH="336"
                     HEIGHT="238">
             <Shape><Polygon POINTS="2684 1601 2632 1601 2580 1601 2529 1601 2477 1601 2425 1601 2374 1601 2384 1725 2389 1839 2513 1839 2518 1839 2523 1839 2606 1782 2705 1798 2710 1710 2699 1601 2684 1601"/></Shape>
-            <String CONTENT="Mat.¬"
+            <String CONTENT="Mat.7"
                     HPOS="2374"
                     VPOS="1601"
                     WIDTH="336"
                     HEIGHT="238"
-                    WC="0.9826225280761719"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2345"

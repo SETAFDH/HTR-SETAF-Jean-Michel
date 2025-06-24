@@ -37,12 +37,12 @@
                     WIDTH="296"
                     HEIGHT="205">
             <Shape><Polygon POINTS="1768 559 1733 555 1699 548 1664 545 1629 583 1633 687 1633 740 1858 750 1862 750 1865 750 1925 726 1925 684 1918 587 1838 583 1796 559 1768 559"/></Shape>
-            <String CONTENT="i8r"
+            <String CONTENT="182"
                     HPOS="1629"
                     VPOS="545"
                     WIDTH="296"
                     HEIGHT="205"
-                    WC="0.9999810854593912"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2141"
@@ -173,12 +173,12 @@
                     WIDTH="2127"
                     HEIGHT="195">
             <Shape><Polygon POINTS="1935 1765 1931 1820 2088 1806 2359 1831 2362 1831 2679 1810 2779 1834 2783 1834 2786 1834 2950 1813 4051 1834 4058 1782 4055 1674 3679 1653 3676 1653 3672 1653 3606 1671 3585 1650 3582 1650 3578 1650 3481 1650 3478 1650 3474 1650 3471 1650 3471 1653 3443 1678 3214 1678 3148 1646 3144 1646 3141 1646 2998 1671 2779 1653 2776 1653 2595 1667 2564 1646 2560 1646 2557 1646 2553 1646 2550 1646 2512 1664 2467 1643 2463 1643 2460 1643 2456 1643 2383 1667 2255 1646 2251 1646 2147 1664 2077 1639 2074 1639 2070 1639 1935 1657 1935 1765"/></Shape>
-            <String CONTENT="blera oyãt ces parolles du S. Esprit:"
+            <String CONTENT="blera oyãt ces parolles du S. Esprit?"
                     HPOS="1931"
                     VPOS="1639"
                     WIDTH="2127"
                     HEIGHT="195"
-                    WC="0.9967237193333475"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_cd47f44a"
                     TAGREFS="LT8"
@@ -504,12 +504,12 @@
                     WIDTH="459"
                     HEIGHT="203">
             <Shape><Polygon POINTS="1486 974 1481 1052 1930 1057 1940 995 1940 859 1486 854 1486 974"/></Shape>
-            <String CONTENT="1.Tim.5."
+            <String CONTENT="1.Tim.5"
                     HPOS="1481"
                     VPOS="854"
                     WIDTH="459"
                     HEIGHT="203"
-                    WC="0.9999792128801346"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

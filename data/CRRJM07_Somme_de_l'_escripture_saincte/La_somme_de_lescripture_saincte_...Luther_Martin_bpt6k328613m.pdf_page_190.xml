@@ -113,12 +113,12 @@
                     WIDTH="2109"
                     HEIGHT="209">
             <Shape><Polygon POINTS="2105 1063 2109 1063 2578 1077 2619 1056 2626 1056 2734 1073 2932 1052 2943 1052 2970 1070 3412 1049 3415 1049 3544 1063 3565 1045 3565 1042 3572 1042 3818 1038 3822 1038 4020 1056 4055 1038 4068 1160 4068 1209 4037 1229 4020 1229 3989 1209 3839 1209 3617 1233 3613 1233 3443 1216 3342 1236 3339 1236 3130 1219 3082 1243 3075 1243 2901 1223 2724 1247 2720 1247 1961 1244 1959 1070"/></Shape>
-            <String CONTENT="homme: mais de dieu/ apres qu Adam"
+            <String CONTENT="homme: mais de dieu/ apres quAdam"
                     HPOS="1959"
                     VPOS="1038"
                     WIDTH="2109"
                     HEIGHT="209"
-                    WC="0.9917433840387008"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_7a452f02"
                     TAGREFS="LT8"
@@ -481,12 +481,12 @@
                     WIDTH="83"
                     HEIGHT="198">
             <Shape><Polygon POINTS="4013 4867 4072 4846 4068 4787 4055 4680 3989 4669 4002 4794"/></Shape>
-            <String CONTENT="te"
+            <String CONTENT="ste"
                     HPOS="3989"
                     VPOS="4669"
                     WIDTH="83"
                     HEIGHT="198"
-                    WC="0.9613505005836487"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1534"
