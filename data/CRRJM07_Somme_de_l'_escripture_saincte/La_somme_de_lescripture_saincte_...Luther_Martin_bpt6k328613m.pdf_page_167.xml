@@ -37,12 +37,12 @@
                     WIDTH="229"
                     HEIGHT="273">
             <Shape><Polygon POINTS="2448 642 2437 632 2393 632 2376 615 2345 615 2311 615 2277 615 2242 615 2236 738 2225 834 2283 841 2328 882 2331 882 2335 882 2441 888 2454 755 2454 649 2448 642"/></Shape>
-            <String CONTENT="10z."
+            <String CONTENT="163"
                     HPOS="2225"
                     VPOS="615"
                     WIDTH="229"
                     HEIGHT="273"
-                    WC="0.959947943687439"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="760"
@@ -256,12 +256,12 @@
                     WIDTH="1487"
                     HEIGHT="185">
             <Shape><Polygon POINTS="297 2420 1579 2441 1584 2441 1779 2410 1784 2394 1779 2271 1200 2256 1194 2256 989 2302 302 2276 302 2389"/></Shape>
-            <String CONTENT="nes. Chap̃.xx."
+            <String CONTENT="nes. Chap̃. .xx."
                     HPOS="297"
                     VPOS="2256"
                     WIDTH="1487"
                     HEIGHT="185"
-                    WC="0.996528902224132"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_3a621b0f"
                     TAGREFS="LT8"
@@ -331,12 +331,12 @@
                     WIDTH="2045"
                     HEIGHT="184">
             <Shape><Polygon POINTS="188 3124 188 3165 1565 3141 2154 3152 2157 3152 2160 3152 2229 3131 2229 3104 2218 2984 2034 3001 1989 2981 1986 2981 1983 2981 1979 2981 1976 2981 1976 2984 1955 3005 1880 3005 1644 2984 1641 2984 1637 2984 1542 3008 1500 2988 1497 2988 1494 2988 1490 2988 1439 3008 1316 2988 1312 2988 1182 3012 1118 2991 1114 2991 1111 2991 820 3018 700 3018 680 2998 680 2994 676 2994 673 2994 670 2994 519 3018 471 3001 468 3001 464 3001 461 3001 420 3018 184 3008 188 3124"/></Shape>
-            <String CONTENT="ter car ueu quelles nentendent point"
+            <String CONTENT="ter. car ueu quelles nentendent point"
                     HPOS="184"
                     VPOS="2981"
                     WIDTH="2045"
                     HEIGHT="184"
-                    WC="0.9954016225205528"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_d5df2cd9"
                     TAGREFS="LT8"

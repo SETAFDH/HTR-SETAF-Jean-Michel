@@ -136,12 +136,12 @@
                     WIDTH="848"
                     HEIGHT="188">
             <Shape><Polygon POINTS="827 1268 1292 1247 1665 1261 1671 1203 1665 1111 1470 1080 1466 1080 1463 1080 1374 1107 1258 1080 1254 1080 1118 1111 895 1083 892 1083 888 1083 823 1111 827 1210"/></Shape>
-            <String CONTENT="Chapitre.xix."
+            <String CONTENT="Chapitre .xix."
                     HPOS="823"
                     VPOS="1080"
                     WIDTH="848"
                     HEIGHT="188"
-                    WC="0.9997988159839923"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_4b78f04b"
                     TAGREFS="LT8"
