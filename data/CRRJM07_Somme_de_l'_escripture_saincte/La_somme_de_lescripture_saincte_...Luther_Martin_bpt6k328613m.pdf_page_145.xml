@@ -293,12 +293,12 @@
                     WIDTH="2094"
                     HEIGHT="174">
             <Shape><Polygon POINTS="2476 2902 386 2871 386 2953 382 3018 2417 3045"/></Shape>
-            <String CONTENT="Et tout cecy se faict, ⁊ est iournelle/"
+            <String CONTENT="Et tout cecy se faict, ⁊ est iournelle"
                     HPOS="382"
                     VPOS="2871"
                     WIDTH="2094"
                     HEIGHT="174"
-                    WC="0.9869032074243594"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_10ddb53b"
                     TAGREFS="LT8"
