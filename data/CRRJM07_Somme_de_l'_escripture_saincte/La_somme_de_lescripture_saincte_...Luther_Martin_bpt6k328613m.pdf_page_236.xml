@@ -37,12 +37,12 @@
                     WIDTH="284"
                     HEIGHT="211">
             <Shape><Polygon POINTS="1934 591 1899 594 1875 594 1861 605 1803 598 1796 601 1761 605 1726 605 1733 729 1733 788 1931 798 1934 798 1937 798 2010 767 2010 719 2003 608 1934 587 1934 591"/></Shape>
-            <String CONTENT="2z2"
+            <String CONTENT="232"
                     HPOS="1726"
                     VPOS="587"
                     WIDTH="284"
                     HEIGHT="211"
-                    WC="0.9999885956446329"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2230"
@@ -218,12 +218,12 @@
                     WIDTH="2108"
                     HEIGHT="180">
             <Shape><Polygon POINTS="1955 2254 1951 2292 2031 2317 2034 2317 2038 2317 2221 2299 2297 2317 2301 2317 2304 2320 2557 2320 2557 2317 2560 2317 2564 2317 2564 2313 2581 2299 2647 2317 2650 2317 2654 2317 2737 2299 3014 2320 3017 2324 3218 2324 3218 2320 3221 2320 3225 2320 3246 2303 3301 2320 3304 2320 3308 2320 3311 2320 3381 2303 3446 2320 3450 2320 3453 2320 3536 2303 4052 2313 4059 2261 4055 2147 1955 2144 1955 2254"/></Shape>
-            <String CONTENT="te de ta foy/ ⁊ charite q̃ tu as a dieu/ ti"
+            <String CONTENT="te de ta foy/ ⁊ charite q̃ tu as a dieu/ tu"
                     HPOS="1951"
                     VPOS="2144"
                     WIDTH="2108"
                     HEIGHT="180"
-                    WC="0.991761913133222"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_47599ed4"
                     TAGREFS="LT8"

@@ -158,12 +158,12 @@
                     WIDTH="2173"
                     HEIGHT="177">
             <Shape><Polygon POINTS="1733 1615 1733 1649 3896 1660 3903 1608 3893 1500 3713 1504 3692 1487 3692 1483 3689 1483 3685 1483 3606 1483 3602 1483 3457 1504 3339 1483 3336 1483 3332 1483 3329 1483 3298 1507 3021 1507 2972 1483 2969 1483 2965 1483 2962 1483 2958 1483 2958 1487 2938 1507 2851 1507 2823 1483 2820 1483 2816 1483 2813 1483 2810 1483 2761 1507 2706 1490 2702 1490 2699 1490 2550 1507 2477 1487 2474 1487 2470 1487 2353 1507 2332 1490 2332 1487 2329 1487 2325 1487 2322 1487 2027 1504 1899 1487 1896 1487 1730 1511 1733 1615"/></Shape>
-            <String CONTENT="et du mõde/ lun interieuremẽt/ ct lau¬"
+            <String CONTENT="et du mõde/ lun interieuremẽt/ et lau¬"
                     HPOS="1730"
                     VPOS="1483"
                     WIDTH="2173"
                     HEIGHT="177"
-                    WC="0.9994076579809189"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_a485b3b4"
                     TAGREFS="LT8"
@@ -443,12 +443,12 @@
                     WIDTH="2055"
                     HEIGHT="166">
             <Shape><Polygon POINTS="1775 4456 1770 4518 3820 4518 3825 4471 3820 4352 1775 4352 1775 4456"/></Shape>
-            <String CONTENT="en Genese d Abrahã leq̃l deliura Loth."
+            <String CONTENT="en Genese d Abrahã leq̃l deliura Loth"
                     HPOS="1770"
                     VPOS="4352"
                     WIDTH="2055"
                     HEIGHT="166"
-                    WC="0.9831465054781009"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_6969482b"
                     TAGREFS="LT8"

@@ -143,12 +143,12 @@
                     WIDTH="2027"
                     HEIGHT="210">
             <Shape><Polygon POINTS="361 1436 361 1477 2385 1436 2385 1395 2374 1267 2240 1284 2140 1271 2136 1271 2133 1271 2043 1295 1981 1274 1978 1274 1974 1274 1971 1274 1871 1298 1775 1277 1771 1277 1768 1277 1702 1302 1371 1284 1368 1284 1271 1302 940 1295 937 1295 934 1295 858 1315 730 1298 727 1298 723 1298 720 1298 685 1322 610 1308 606 1308 358 1329 361 1436"/></Shape>
-            <String CONTENT="ainsi. Mais pour ce q̃ maintenãt ilz ne"
+            <String CONTENT="ainsi. Mais pource q̃ maintenãt ilz ne"
                     HPOS="358"
                     VPOS="1267"
                     WIDTH="2027"
                     HEIGHT="210"
-                    WC="0.96887888610363"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_a898a2a5"
                     TAGREFS="LT8"

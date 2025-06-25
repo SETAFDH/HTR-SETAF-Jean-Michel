@@ -158,12 +158,12 @@
                     WIDTH="2136"
                     HEIGHT="148">
             <Shape><Polygon POINTS="1877 1670 1871 1707 3997 1712 4007 1675 4002 1564 1877 1564 1877 1670"/></Shape>
-            <String CONTENT="D. Matthieu en ceste maniere. Uous"
+            <String CONTENT="S. Matthieu en ceste maniere. Uous"
                     HPOS="1871"
                     VPOS="1564"
                     WIDTH="2136"
                     HEIGHT="148"
-                    WC="0.9999655976014978"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_bde36436"
                     TAGREFS="LT8"
@@ -188,12 +188,12 @@
                     WIDTH="2152"
                     HEIGHT="169">
             <Shape><Polygon POINTS="1881 1987 1881 2022 4027 2015 4030 1980 4027 1877 3942 1853 3939 1853 3935 1853 3791 1877 3470 1877 3449 1856 3449 1853 3446 1853 3442 1853 3438 1853 3326 1874 3188 1853 3185 1853 3181 1853 3121 1870 3072 1853 3068 1853 3065 1853 2825 1856 2822 1856 2741 1877 2575 1856 2572 1856 2568 1856 2501 1877 2441 1860 2438 1860 2434 1860 2350 1877 2202 1856 2198 1856 2195 1856 2114 1877 1878 1860 1881 1987"/></Shape>
-            <String CONTENT="pour dent. Mais ie uous dis/ nie resi¬"
+            <String CONTENT="pour dent. Mais ie uous dis/ ne resi¬"
                     HPOS="1878"
                     VPOS="1853"
                     WIDTH="2152"
                     HEIGHT="169"
-                    WC="0.9892864446890982"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_3638566c"
                     TAGREFS="LT8"

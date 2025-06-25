@@ -542,12 +542,12 @@
                     WIDTH="435"
                     HEIGHT="267">
             <Shape><Polygon POINTS="2888 3775 2888 3856 3316 3856 3316 3769 3298 3589 2881 3614 2888 3775"/></Shape>
-            <String CONTENT="1.cor.10."
+            <String CONTENT="1.cor.◊0."
                     HPOS="2881"
                     VPOS="3589"
                     WIDTH="435"
                     HEIGHT="267"
-                    WC="0.9559112787246704"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
