@@ -60,12 +60,12 @@
                     WIDTH="689"
                     HEIGHT="201">
             <Shape><Polygon POINTS="3330 717 3265 717 3240 699 3237 699 3201 699 3165 699 3129 695 3093 695 3082 695 3057 713 3018 695 2985 695 2949 692 2921 692 2863 710 2806 692 2770 688 2734 688 2698 688 2673 688 2662 688 2662 817 2659 889 3344 889 3348 825 3344 724"/></Shape>
-            <String CONTENT="De la foy."
+            <String CONTENT="De la Foy."
                     HPOS="2659"
                     VPOS="688"
                     WIDTH="689"
                     HEIGHT="201"
-                    WC="0.9999991059303284"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1821"
