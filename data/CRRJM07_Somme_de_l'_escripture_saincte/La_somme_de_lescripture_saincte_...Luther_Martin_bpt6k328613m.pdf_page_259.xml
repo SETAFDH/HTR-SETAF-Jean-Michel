@@ -173,12 +173,12 @@
                     WIDTH="2002"
                     HEIGHT="284">
             <Shape><Polygon POINTS="408 1829 403 1875 672 1875 713 1906 718 1906 724 1906 729 1906 1029 1891 1205 1927 1210 1927 1215 1927 1293 1906 1417 1937 1422 1937 1427 1937 1432 1937 1505 1911 1665 1947 1670 1947 1996 1932 2048 1963 2053 1963 2058 1963 2063 1963 2192 1942 2394 1973 2405 1906 2405 1792 2291 1761 2286 1761 2280 1761 2275 1761 2161 1787 1918 1746 1913 1746 1908 1746 1820 1772 1060 1710 1055 1710 1049 1710 951 1736 817 1699 812 1699 806 1699 801 1699 744 1725 558 1689 553 1689 408 1710 408 1829"/></Shape>
-            <String CONTENT="Genese ou Chap̃ .xui. Ou lange luy"
+            <String CONTENT="Genese ou Chap̃. .xui. Ou lange luy"
                     HPOS="403"
                     VPOS="1689"
                     WIDTH="2002"
                     HEIGHT="284"
-                    WC="0.9870815873146057"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_9ed5157b"
                     TAGREFS="LT8"
@@ -527,12 +527,12 @@
                     WIDTH="403"
                     HEIGHT="294">
             <Shape><Polygon POINTS="2420 3063 2410 3213 2803 3167 2808 3079 2813 2919 2425 2919 2420 3063"/></Shape>
-            <String CONTENT="Ad pbit"
+            <String CONTENT="Ad phil."
                     HPOS="2410"
                     VPOS="2919"
                     WIDTH="403"
                     HEIGHT="294"
-                    WC="0.9624077251979283"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2337"

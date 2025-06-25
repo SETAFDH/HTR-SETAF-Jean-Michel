@@ -504,12 +504,12 @@
                     WIDTH="503"
                     HEIGHT="354">
             <Shape><Polygon POINTS="2844 5005 2838 5123 3329 5129 3341 5023 3341 4800 3149 4775 3142 4775 3136 4775 3130 4775 3024 4837 2844 4837 2844 5005"/></Shape>
-            <String CONTENT="Deut.c"
+            <String CONTENT="Deut.4."
                     HPOS="2838"
                     VPOS="4775"
                     WIDTH="503"
                     HEIGHT="354"
-                    WC="0.8974772642056147"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
