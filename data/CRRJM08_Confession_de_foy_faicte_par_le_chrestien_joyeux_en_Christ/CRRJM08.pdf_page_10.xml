@@ -45,6 +45,29 @@
                     WC="0.9999988675117493"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="599"
+                   VPOS="115"
+                   WIDTH="268"
+                   HEIGHT="73"
+                   ID="eSc_textblock_d8a96f7a"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="599 115 599 188 867 188 867 115"/></Shape>
+          <TextLine ID="eSc_line_23de10ea"
+                    TAGREFS="LT10"
+                    BASELINE="625 171 829 169" 
+                    HPOS="624"
+                    VPOS="129"
+                    WIDTH="205"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="791 134 787 132 782 132 773 131 763 131 754 131 748 131 744 132 742 131 735 131 726 131 717 130 708 130 704 130 694 134 689 130 680 130 671 129 661 129 652 129 643 129 638 129 624 135 625 171 625 181 674 181 693 190 694 190 695 190 764 189 765 189 781 180 802 189 803 189 804 189 829 183 829 169 827 139 821 134"/></Shape>
+            <String CONTENT="Confession"
+                    HPOS="624"
+                    VPOS="129"
+                    WIDTH="205"
+                    HEIGHT="61"
+                    WC="0.9994999468326569"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="377"
                    VPOS="166"
                    WIDTH="743"
@@ -60,12 +83,12 @@
                     WIDTH="635"
                     HEIGHT="58">
             <Shape><Polygon POINTS="1071 194 1061 188 1052 188 1043 188 1033 188 1024 188 1015 187 1013 187 988 190 984 187 978 187 968 186 959 186 950 186 941 186 931 186 929 185 916 189 888 185 885 185 881 184 868 182 867 182 866 182 854 188 828 182 827 182 826 182 812 188 789 183 788 183 736 188 730 183 729 183 728 183 727 183 726 183 714 188 695 180 694 180 693 180 692 180 668 187 628 180 627 180 599 187 586 180 585 180 584 180 583 180 565 185 556 181 551 181 542 181 532 181 488 186 484 183 477 183 467 183 458 183 449 183 444 183 439 185 439 223 438 233 1071 238 1073 228 1073 197 1071 194"/></Shape>
-            <String CONTENT="Croire ie ueul q̃ deux uiues fõteineo"
+            <String CONTENT="Croire ie ueul q̃ deux uiues fõteines"
                     HPOS="438"
                     VPOS="180"
                     WIDTH="635"
                     HEIGHT="58"
-                    WC="0.9879800849839261"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_3dd185f6"
                     TAGREFS="LT8"
@@ -441,29 +464,6 @@
                     WIDTH="683"
                     HEIGHT="78"
                     WC="0.9752953480451535"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="599"
-                   VPOS="115"
-                   WIDTH="268"
-                   HEIGHT="73"
-                   ID="eSc_textblock_d8a96f7a"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="599 115 599 188 867 188 867 115"/></Shape>
-          <TextLine ID="eSc_line_23de10ea"
-                    TAGREFS="LT10"
-                    BASELINE="625 171 829 169" 
-                    HPOS="624"
-                    VPOS="129"
-                    WIDTH="205"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="791 134 787 132 782 132 773 131 763 131 754 131 748 131 744 132 742 131 735 131 726 131 717 130 708 130 704 130 694 134 689 130 680 130 671 129 661 129 652 129 643 129 638 129 624 135 625 171 625 181 674 181 693 190 694 190 695 190 764 189 765 189 781 180 802 189 803 189 804 189 829 183 829 169 827 139 821 134"/></Shape>
-            <String CONTENT="Confession"
-                    HPOS="624"
-                    VPOS="129"
-                    WIDTH="205"
-                    HEIGHT="61"
-                    WC="0.9994999468326569"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="951"
