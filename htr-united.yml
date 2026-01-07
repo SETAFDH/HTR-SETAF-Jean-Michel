@@ -95,12 +95,12 @@ characters:
   - '5'
   - U
   - '6'
-  - O
   - (
+  - O
   - )
   - ¶
-  - H
   - '8'
+  - H
   - '0'
   - ꝑ
   - B
@@ -126,6 +126,8 @@ characters:
   - k
   - ̀
   - ᗅ
+  - ꝙ
+  - ̈
   - v
   - ł
   mode: NFD
@@ -161,11 +163,11 @@ transcription-guidelines: >-
   our rules is available on HAL (https://hal.science/hal-04281804).
 url: https://github.com/SETAFDH/HTR-SETAF-Jean-Michel
 volume:
-- count: 638885
+- count: 643164
   metric: characters
-- count: 842
+- count: 847
   metric: files
-- count: 24890
+- count: 25062
   metric: lines
-- count: 3650
+- count: 3687
   metric: regions
