@@ -465,6 +465,37 @@
                     HEIGHT="71"
                     WC="0.9995396521783644"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="930"
+                   VPOS="1402"
+                   WIDTH="177"
+                   HEIGHT="79"
+                   ID="eSc_textblock_2ccb3953"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="930 1402 930 1481 1107 1481 1107 1402"/></Shape>
+          <TextLine ID="eSc_line_03cdddd1"
+                    TAGREFS="LT8"
+                    BASELINE="948 1449 1089 1446" 
+                    HPOS="946"
+                    VPOS="1407"
+                    WIDTH="143"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1086 1415 1077 1413 1069 1411 946 1407 948 1449 948 1461 965 1466 966 1466 967 1466 968 1466 995 1458 1030 1458 1037 1464 1037 1465 1038 1465 1039 1465 1040 1465 1089 1461 1089 1446 1087 1415 1086 1415"/></Shape>
+            <String CONTENT="Donne"
+                    HPOS="946"
+                    VPOS="1407"
+                    WIDTH="143"
+                    HEIGHT="59"
+                    WC="0.9999984741210938"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="314"
+                   VPOS="290"
+                   WIDTH="85"
+                   HEIGHT="395"
+                   ID="eSc_textblock_497a11ad"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="314 290 320 685 399 683 395 296"/></Shape>
           <TextLine ID="eSc_line_de77cffc"
                     TAGREFS="LT8"
                     BASELINE="358 339 389 338" 
@@ -525,37 +556,6 @@
                     HEIGHT="59"
                     WC="0.9999995231628418"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="930"
-                   VPOS="1402"
-                   WIDTH="177"
-                   HEIGHT="79"
-                   ID="eSc_textblock_2ccb3953"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="930 1402 930 1481 1107 1481 1107 1402"/></Shape>
-          <TextLine ID="eSc_line_03cdddd1"
-                    TAGREFS="LT8"
-                    BASELINE="948 1449 1089 1446" 
-                    HPOS="946"
-                    VPOS="1407"
-                    WIDTH="143"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="1086 1415 1077 1413 1069 1411 946 1407 948 1449 948 1461 965 1466 966 1466 967 1466 968 1466 995 1458 1030 1458 1037 1464 1037 1465 1038 1465 1039 1465 1040 1465 1089 1461 1089 1446 1087 1415 1086 1415"/></Shape>
-            <String CONTENT="Donne"
-                    HPOS="946"
-                    VPOS="1407"
-                    WIDTH="143"
-                    HEIGHT="59"
-                    WC="0.9999984741210938"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="314"
-                   VPOS="290"
-                   WIDTH="85"
-                   HEIGHT="395"
-                   ID="eSc_textblock_497a11ad"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="314 290 320 685 399 683 395 296"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

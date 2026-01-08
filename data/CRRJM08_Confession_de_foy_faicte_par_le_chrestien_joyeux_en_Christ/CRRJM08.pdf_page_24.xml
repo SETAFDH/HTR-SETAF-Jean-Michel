@@ -480,36 +480,6 @@
                     HEIGHT="68"
                     WC="0.9899576685645364"></String>
           </TextLine>
-          <TextLine ID="eSc_line_486b4e65"
-                    TAGREFS="LT8"
-                    BASELINE="245 997 377 990" 
-                    HPOS="240"
-                    VPOS="935"
-                    WIDTH="135"
-                    HEIGHT="86">
-            <Shape><Polygon POINTS="243 996 243 1021 375 1010 375 989 371 936 331 935 329 935 328 935 292 953 240 958 243 996"/></Shape>
-            <String CONTENT="Exod.20"
-                    HPOS="240"
-                    VPOS="935"
-                    WIDTH="135"
-                    HEIGHT="86"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_5f522fcf"
-                    TAGREFS="LT8"
-                    BASELINE="335 1172 375 1170" 
-                    HPOS="331"
-                    VPOS="1134"
-                    WIDTH="43"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="334 1171 335 1189 374 1180 374 1169 370 1134 331 1136 334 1171"/></Shape>
-            <String CONTENT="2"
-                    HPOS="331"
-                    VPOS="1134"
-                    WIDTH="43"
-                    HEIGHT="55"
-                    ></String>
-          </TextLine>
         </TextBlock>
         <TextBlock HPOS="957"
                    VPOS="1398"
@@ -534,6 +504,29 @@
                     WC="0.9998300075531006"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="226"
+                   VPOS="934"
+                   WIDTH="155"
+                   HEIGHT="97"
+                   ID="eSc_textblock_c16f25d8"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="246 934 226 1031 377 1027 381 936"/></Shape>
+          <TextLine ID="eSc_line_486b4e65"
+                    TAGREFS="LT8"
+                    BASELINE="245 997 377 990" 
+                    HPOS="240"
+                    VPOS="935"
+                    WIDTH="135"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="243 996 243 1021 375 1010 375 989 371 936 331 935 329 935 328 935 292 953 240 958 243 996"/></Shape>
+            <String CONTENT="Exod.20"
+                    HPOS="240"
+                    VPOS="935"
+                    WIDTH="135"
+                    HEIGHT="86"
+                    ></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="308"
                    VPOS="1084"
                    WIDTH="69"
@@ -556,14 +549,21 @@
                     HEIGHT="54"
                     ></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="226"
-                   VPOS="934"
-                   WIDTH="155"
-                   HEIGHT="97"
-                   ID="eSc_textblock_c16f25d8"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="246 934 226 1031 377 1027 381 936"/></Shape>
+          <TextLine ID="eSc_line_5f522fcf"
+                    TAGREFS="LT8"
+                    BASELINE="335 1172 375 1170" 
+                    HPOS="331"
+                    VPOS="1134"
+                    WIDTH="43"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="334 1171 335 1189 374 1180 374 1169 370 1134 331 1136 334 1171"/></Shape>
+            <String CONTENT="2"
+                    HPOS="331"
+                    VPOS="1134"
+                    WIDTH="43"
+                    HEIGHT="55"
+                    ></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
