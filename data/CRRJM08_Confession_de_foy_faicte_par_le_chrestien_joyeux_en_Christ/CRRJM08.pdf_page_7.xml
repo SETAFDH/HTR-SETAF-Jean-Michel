@@ -24,11 +24,11 @@
                   HEIGHT="1670">
         <TextBlock HPOS="33"
                    VPOS="159"
-                   WIDTH="745"
+                   WIDTH="734"
                    HEIGHT="1231"
                    ID="eSc_textblock_e1b06370"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="35 159 33 1390 778 1390 750 180"/></Shape>
+          <Shape><Polygon POINTS="35 159 33 1390 767 1377 766 1107 736 1071 735 992 760 960 729 193"/></Shape>
           <TextLine ID="eSc_line_6eb35f99"
                     TAGREFS="LT8"
                     BASELINE="740 183 790 185" 
@@ -435,13 +435,13 @@
                     ></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="462"
-                   VPOS="1375"
-                   WIDTH="308"
-                   HEIGHT="74"
+        <TextBlock HPOS="479"
+                   VPOS="1379"
+                   WIDTH="291"
+                   HEIGHT="72"
                    ID="eSc_textblock_e114aa42"
                    TAGREFS="BT17">
-          <Shape><Polygon POINTS="462 1375 462 1449 770 1449 770 1375"/></Shape>
+          <Shape><Polygon POINTS="480 1388 479 1451 770 1449 766 1379"/></Shape>
           <TextLine ID="eSc_line_8bdaac73"
                     TAGREFS="LT8"
                     BASELINE="497 1419 739 1415" 
@@ -487,15 +487,15 @@
                    HEIGHT="73"
                    ID="eSc_textblock_18a82b4f"
                    TAGREFS="BT15">
-          <Shape><Polygon POINTS="728 134 728 207 805 207 805 134"/></Shape>
+          <Shape><Polygon POINTS="728 134 735 198 805 207 805 134"/></Shape>
         </TextBlock>
-        <TextBlock HPOS="726"
-                   VPOS="981"
-                   WIDTH="168"
-                   HEIGHT="96"
+        <TextBlock HPOS="735"
+                   VPOS="990"
+                   WIDTH="159"
+                   HEIGHT="72"
                    ID="eSc_textblock_55ef71dd"
                    TAGREFS="BT13">
-          <Shape><Polygon POINTS="744 981 726 1066 894 1077 894 981"/></Shape>
+          <Shape><Polygon POINTS="737 990 735 1062 894 1062 888 992"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
